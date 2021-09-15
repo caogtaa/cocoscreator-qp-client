@@ -1,0 +1,2987 @@
+{
+  "assets": {
+    "games/niuniu/config.json": {
+      "md5": "fe21d2fbfe12503ccdcf0bfc11f24140"
+    },
+    "games/niuniu/import/00/00106c9d-9830-4ec4-9ce9-f5a239b60663.json": {
+      "md5": "0c4d3a123259bca3f266f00dcaa885f1"
+    },
+    "games/niuniu/import/00/00317453-88ff-42bc-8e56-baacd62b2eef.json": {
+      "md5": "8a307ce122dcf126f7d2752690ab01c0"
+    },
+    "games/niuniu/import/00/00464109-d838-436f-b4c2-2dac2d67c0f5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/00/0095a47f-be78-4d0d-b362-bedd2b0a4af1.json": {
+      "md5": "fda5cdc880c3d41c87ff38148ec96474"
+    },
+    "games/niuniu/import/00/009fc1d2-38b3-4715-96b5-28a8efb3f3d2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/01/0165aaad-2e39-4dc3-ad91-19874b645e02.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/01/01661218-6736-4b6f-9873-731669822705.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/01/01bb1bba-4ef2-4ce2-aeda-100126cf3b17.json": {
+      "md5": "6a28889818b77f0a440fff47c83796ad"
+    },
+    "games/niuniu/import/01/01c758bc-eb63-4f37-8d10-56609ed9f8a3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/02/021dbedc-8e75-45b9-8cd6-f382676dcd82.json": {
+      "md5": "0e396b8eced482fa0765e6cb0bc96035"
+    },
+    "games/niuniu/import/02/02770ecc-5e2b-49a0-a396-94160b1ac9bc.json": {
+      "md5": "b5d156ce3e81c3b9d995f9cd081f1560"
+    },
+    "games/niuniu/import/03/032b6745-3aa7-48ce-b1a0-b34abb134a44.json": {
+      "md5": "4a748ac2c8b1386957d1cb18ed7824fb"
+    },
+    "games/niuniu/import/03/03dfdf99-9686-44eb-87c9-508c6c290368.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/04/04b5808f-8a24-49af-99ad-714b5fc91196.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/05/05d0be26-87d9-4786-b505-b4277b774328.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/06/06254744-d018-4865-a887-bb815632c201.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/06/0653befb-76dc-4842-9593-d5e5ea6b2d9c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/06/06714301-fb92-46c8-be0c-d6e2180f975a.json": {
+      "md5": "f0433872c28017b74abff1542867e55a"
+    },
+    "games/niuniu/import/06/0689846a-4b5d-44e9-b737-d4cb9d3daed4.json": {
+      "md5": "b3306f8e02a9ce3477933dfb40864fd8"
+    },
+    "games/niuniu/import/06/06cb35f2-e1d5-469e-a776-8623e80ef26e.json": {
+      "md5": "511189fac4d0fd595597a1efe7056faa"
+    },
+    "games/niuniu/import/06/06fb1ef8-fe68-4031-9a59-84867f1eea3d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/07/07309fd0-f82b-4cf3-9ba8-bb067fd1fc0c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/07/073a4def-b1cd-4319-bce8-ed1158c05397.json": {
+      "md5": "d33c89d4a5835307dc899a8ee79dece4"
+    },
+    "games/niuniu/import/07/07536ebd-87d2-441c-8f2b-2436f61a7edc.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/07/0792d575-d640-4973-8193-07cd9e1bacd2.json": {
+      "md5": "681b2581d75f918ee33e58861d21799a"
+    },
+    "games/niuniu/import/08/080dd2db-e05c-46db-beed-660ac603353b.json": {
+      "md5": "18f9c68f2b5782f5ccc2459e3705501d"
+    },
+    "games/niuniu/import/08/086254ca-7218-48d6-b783-cf801430ea9a.json": {
+      "md5": "a4c927d945a129778530db680283a7e6"
+    },
+    "games/niuniu/import/08/08802953-97e9-4079-ba47-a8b2e523a888.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/09/092b1471-967d-49d2-afb5-9009f5221ce9.json": {
+      "md5": "922aa2ac38628dea4e66dee23898e204"
+    },
+    "games/niuniu/import/09/09af4d79-5c55-45d3-9b80-47acd1843360.json": {
+      "md5": "e9717d1016afafffa97b22a2c5bd3992"
+    },
+    "games/niuniu/import/09/09b789bb-acd4-466f-9842-eb822fdeb44b.json": {
+      "md5": "ca4e898dd3f65367094f2b572a1e7d0b"
+    },
+    "games/niuniu/import/09/09e7eebc-3e56-4162-831b-387306e2961c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/0a/0a2517e4-aae0-49f9-8a37-3bcb492f328e.json": {
+      "md5": "b08771c0935a0eec7a1ebc4e5d071102"
+    },
+    "games/niuniu/import/0a/0a25d0a8-2b64-4571-a976-fabef1147cc8.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/0a/0ad029bd-bf96-45c2-a444-bb3860bb273e.json": {
+      "md5": "bff84af271af6ed3cc700bbe2cd38428"
+    },
+    "games/niuniu/import/0b/0b4dcf14-9e5c-4a85-9780-9d6d5b4e8388.json": {
+      "md5": "d76b6441271b3b921ba02cf8bbb4e97d"
+    },
+    "games/niuniu/import/0b/0bb1fe17-e059-4dc8-a485-b33735ad3a54.json": {
+      "md5": "8734a4d831e9ea7e15ce0ce4d0541878"
+    },
+    "games/niuniu/import/0b/0bbf339b-0b1e-4761-979c-1ad0e5ae5b29.json": {
+      "md5": "16a85e5047393bf2c46a0f9d7735a010"
+    },
+    "games/niuniu/import/0c/0c13ddff-66d7-4836-8853-83cebe8e638f.json": {
+      "md5": "9a4b88a4b27054d7b8d2ddfb5c4e4280"
+    },
+    "games/niuniu/import/0c/0c141c8a-3ad1-417e-9e46-590197e4d27f.json": {
+      "md5": "dc4c926561177435bbb7c79e0c6ab251"
+    },
+    "games/niuniu/import/0c/0c2eeb97-e87d-4f2f-8acd-79b6e69f893d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/0c/0c3d96c1-badf-43ed-8e09-11c60273ad67.json": {
+      "md5": "e1a99eab6fc90e785db6aebf1606a9a3"
+    },
+    "games/niuniu/import/0c/0cda2d28-75f1-4dd2-849f-4e0e8f4d4a39.json": {
+      "md5": "f64ecc583acb7082a72792a97ea9217a"
+    },
+    "games/niuniu/import/0d/0d1016e8-e530-4265-9225-dfec419bb3ce.json": {
+      "md5": "9f3d97003f282ba352eaf7c299bc83fb"
+    },
+    "games/niuniu/import/0d/0d767643-5e6f-454e-9609-992ce5edee3b.json": {
+      "md5": "686ca99743e4a2a600d2f05f4d3804bd"
+    },
+    "games/niuniu/import/0d/0db7eafd-8c24-4239-b72c-708e591f3169.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/0d/0df83329-8309-4c51-8e34-935d66f5494e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/0e/0e824379-0303-4261-96df-f38aea122f1f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/0e/0ec77376-66cf-4df9-ae3e-56dd776d9fc6.json": {
+      "md5": "91c32d5f51465d7340c8108fbef28ecf"
+    },
+    "games/niuniu/import/0f/0f2a16ac-be7a-45fc-a1b1-03da726d11df.json": {
+      "md5": "2b36ec313ae20d9005b30262e2e0b5e9"
+    },
+    "games/niuniu/import/0f/0f453c86-8232-4827-8ca5-effb136ee399.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/10/1013116d-b929-4618-b2f9-a52380c2b28c.json": {
+      "md5": "9a20824bdc6eaaa130c9618f5982a656"
+    },
+    "games/niuniu/import/10/10a9d18c-f87c-4fcc-897b-8f0478b1319d.json": {
+      "md5": "d3202397f2aaeece05e6a646abbf105c"
+    },
+    "games/niuniu/import/11/112eec3a-cad4-4645-b4da-1e50e339ca44.json": {
+      "md5": "0c772b7f55fe1eba7e8d36a5aa82d967"
+    },
+    "games/niuniu/import/11/11b078fa-e9bd-4f30-911e-f089efb54353.json": {
+      "md5": "52af8343d1a1d802de1609995864731d"
+    },
+    "games/niuniu/import/12/128f6cb5-94bd-4a50-a191-8cca7c255d25.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/12/12ffed72-44cd-4503-955b-bd6caa0eb59c.json": {
+      "md5": "494da792e8709e9672d0435df03af17f"
+    },
+    "games/niuniu/import/13/138c543e-8742-4760-a66a-64e8cedd62c3.json": {
+      "md5": "7b0a8462b0f663b5ebbc696cefdc6385"
+    },
+    "games/niuniu/import/14/140c9bd0-4953-4ae7-b5ab-9e1f019c18f8.json": {
+      "md5": "7650ecd927f469a6f8db5a64c6806247"
+    },
+    "games/niuniu/import/14/144c8ef5-3308-4ebe-b708-737fe939b8a8.json": {
+      "md5": "39eb02a4d8a4b2e2a15809489fbe7e04"
+    },
+    "games/niuniu/import/14/148f6749-d524-44e5-944e-ae545b94abff.json": {
+      "md5": "6795c68e45cbc7efaf3dea85a8d7f86b"
+    },
+    "games/niuniu/import/14/1490c413-0980-4f4d-ab8e-3b5ad5ff0695.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/14/14fc9029-1f11-46a3-9d94-a19239d9fb6b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/15/152b003d-7a75-495c-881c-3a9cd8610be7.json": {
+      "md5": "4adca7f35c040083fe674ac2dc1754b6"
+    },
+    "games/niuniu/import/15/15be631b-f129-4c02-b5ac-33bed1bb9a34.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/16/161b7617-1e95-467e-84e1-e1ace24f7052.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/16/16cc6fea-70aa-4d59-afaa-49a2651d0b17.json": {
+      "md5": "2f7cde617dcea213cda0aa533fe797d9"
+    },
+    "games/niuniu/import/17/173871e4-080c-4193-9536-8829585b5e4e.json": {
+      "md5": "2be660b03bd963d44237055ecb898f1c"
+    },
+    "games/niuniu/import/17/176b01d0-8f5f-4151-ae00-86b76af250fc.json": {
+      "md5": "e588d27aaeee106c9fbaef61d169101b"
+    },
+    "games/niuniu/import/17/17adbaad-719d-4fc5-9f35-c5d95f73bf83.json": {
+      "md5": "559dc3c6a8ff259f3fcc33c5154052fd"
+    },
+    "games/niuniu/import/17/17e3ee64-4211-48d4-923d-16b55f74319c.json": {
+      "md5": "b931bb11ec185d887fd89bbaeef2f93b"
+    },
+    "games/niuniu/import/18/184efec2-a5b6-4f02-ad51-c12ef6b0e22b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/18/1854da61-0358-4c2f-ad62-c9639f5310e1.json": {
+      "md5": "6c755d68614da35b37f656db5bc75bc4"
+    },
+    "games/niuniu/import/19/194dd3e1-3b65-4064-8895-c62e69fa3798.json": {
+      "md5": "355932f9445807dd9e45dd6d7be84440"
+    },
+    "games/niuniu/import/19/19530dbe-f712-44c4-9808-1ed7a5564782.json": {
+      "md5": "17cd6aa19f5d89afee98492b3b26ced7"
+    },
+    "games/niuniu/import/19/1958a041-6a42-4e24-9717-d96db8945e41.json": {
+      "md5": "d9d006778a7a8a60c0be9ab64aae9f2a"
+    },
+    "games/niuniu/import/19/1972cb83-ef4f-4156-9539-58967bfc2625.json": {
+      "md5": "7c9339c0d8c4762d9d9577718aedab3b"
+    },
+    "games/niuniu/import/19/19ae5e3e-c756-495a-91bf-08335b55a65e.json": {
+      "md5": "4129521651e72d3dcd1793620f27d6ee"
+    },
+    "games/niuniu/import/1a/1a9f67f7-74b3-4563-a8b8-ef1b2ae74c63.json": {
+      "md5": "a54b361ae41b9648668ce3004dfb2d1c"
+    },
+    "games/niuniu/import/1b/1b17a930-5909-4e01-966f-fb9bc9517d46.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/1b/1b2128d7-5467-43a1-9c69-22f5c70af0cf.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/1c/1c712480-9ba4-4d5c-b281-602954da534d.json": {
+      "md5": "79a90db5e606096254a0dbf1a7413799"
+    },
+    "games/niuniu/import/1d/1d0da987-d53f-4b82-a173-461cac898c56.json": {
+      "md5": "30978c38e21f699c774db0303752c2b2"
+    },
+    "games/niuniu/import/1d/1d22c484-b292-4913-9ae7-6fd4658a0bb1.json": {
+      "md5": "552d2620f2add4e12739c83bb3c871f7"
+    },
+    "games/niuniu/import/1d/1d92401b-85fb-490f-9aae-9f94fe56ae47.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/1d/1d927d74-f154-4741-b921-f62792e8afd1.json": {
+      "md5": "8d2a8289f783ac15301f101dd64b43b3"
+    },
+    "games/niuniu/import/1d/1daaec78-8b51-4185-b856-5f35f8b782b4.json": {
+      "md5": "4050f6e496c1fb07180db71f640a272a"
+    },
+    "games/niuniu/import/1d/1dcc5ff7-62f9-4476-9b04-6faa577689e0.json": {
+      "md5": "bf1e00b63c3fb07e2531467107094279"
+    },
+    "games/niuniu/import/1e/1e2d05cd-8306-4a6f-9f9e-5f0d8a342b10.json": {
+      "md5": "955a4a5a58f5302441ae5528cf158c10"
+    },
+    "games/niuniu/import/1e/1e2edeae-f8b7-43b6-beab-aaed95009320.json": {
+      "md5": "5e894caa66b3fec7fd0c7cd7a06eb015"
+    },
+    "games/niuniu/import/1f/1f490acd-e617-4ad2-852f-afa6e42a9a88.json": {
+      "md5": "a20bcca145fa71d0efd42fd6455c0b66"
+    },
+    "games/niuniu/import/20/200021ab-437f-45be-9434-bfd00ec5780d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/20/2024613a-53f9-4d0a-a464-0f5cb25ec12b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/20/208c598e-44ec-426b-ae53-30968a611a36.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/20/209b1965-bb4c-479a-94f0-20ca347576f4.json": {
+      "md5": "83cfa88dabdb6e86940c5973d3be36e7"
+    },
+    "games/niuniu/import/20/20d2578b-9bae-425b-8e73-597dc9e3ac70.json": {
+      "md5": "4c8fb944ed75278cbcc3f75e2f65b81d"
+    },
+    "games/niuniu/import/21/21645371-df69-4563-b926-b587ab4d66d6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/22/220937ce-5d46-4c8c-9f28-66161f941320.json": {
+      "md5": "9ade56e81a7ec2857c57d96edcb71c06"
+    },
+    "games/niuniu/import/23/2302025b-497a-46b8-ba94-458f2d638a0e.json": {
+      "md5": "0c5a0101f0bb119b4a43a993fe35a092"
+    },
+    "games/niuniu/import/23/230deac8-730a-4727-b64f-1a9ff8dc92f0.json": {
+      "md5": "7076c160b147b29c47a723483725cdb2"
+    },
+    "games/niuniu/import/23/23903fab-7f3d-4f1b-afb3-ea3200e20e64.json": {
+      "md5": "d179a67980908cc5d91419ab15cf207a"
+    },
+    "games/niuniu/import/24/241772f4-0d86-42a3-a25a-ba8f67855552.json": {
+      "md5": "f86df4db513b190016968f7a2c8f985e"
+    },
+    "games/niuniu/import/24/24c6a3ed-709e-4219-b180-34706f2a9e7d.json": {
+      "md5": "45253f720366ba76589b37db88d34440"
+    },
+    "games/niuniu/import/24/24f290bb-5085-4383-b9f7-fe8c435fa104.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/26/262f72f5-ff76-49ab-92b9-258e88765bbe.json": {
+      "md5": "fbbaebfa085014bebd687b2e21cb9152"
+    },
+    "games/niuniu/import/26/26e92d53-0472-4e60-9f7d-0d546c1eb2e1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/26/26efa549-277b-4aea-b99a-406ddc238b8b.json": {
+      "md5": "4bd291dc6c134072c4b40a521a6abba4"
+    },
+    "games/niuniu/import/27/270190cd-2139-486c-ad6c-6ecb4acfd4b4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/27/275a6d80-f6ee-4365-943a-4b554eff76e7.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/27/27fba6fe-9892-4c8c-b31b-b7a6891835f6.json": {
+      "md5": "d1e390e7eae768d0acdf06960b4f49fa"
+    },
+    "games/niuniu/import/29/2953c433-d7b6-4567-b785-b05bfc30a196.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/29/2971dc37-f003-409e-be7b-20252bfe6ac0.json": {
+      "md5": "fe390921ed50df6e88d747e0ac4d8c8c"
+    },
+    "games/niuniu/import/2a/2a5ccf3f-1d9c-4eb1-863f-7311c7e580bf.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2a/2a8d4f92-5e1a-4418-9231-fb1728a1b4c7.json": {
+      "md5": "1627b058640aa2cd7218d4636ddb08aa"
+    },
+    "games/niuniu/import/2a/2aef17a6-3c60-48da-98f8-40706095c9d2.json": {
+      "md5": "c2f1c7e7146281a0205336c3f6a365fc"
+    },
+    "games/niuniu/import/2b/2b12f384-30c2-4132-9240-e5171de0b2a1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2b/2b24bfb5-784b-49e8-9058-ec83e3c19d9a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2b/2b5460d5-0f21-4654-a355-b24d99853d92.json": {
+      "md5": "252aec691b6af3e325e8c0a0bb94200e"
+    },
+    "games/niuniu/import/2b/2b84577e-3393-404c-a98f-94be5e4f84fa.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2b/2bf0cbf2-cf1c-4430-8cda-e752686f5f16.json": {
+      "md5": "88a64c28f3cb5bb419dcac6ac242082c"
+    },
+    "games/niuniu/import/2b/2bf60d1e-8c1d-4e4c-be9f-bd3409c7fe19.json": {
+      "md5": "83086689e61849437304977bfe0497cd"
+    },
+    "games/niuniu/import/2c/2c9cd81e-fc59-435f-8a28-bd205ca53874.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2c/2cde229a-c42f-40ba-9168-e237529d23f0.json": {
+      "md5": "6226e30211451cc912f300f0dffd82c2"
+    },
+    "games/niuniu/import/2d/2db90d51-5dd8-4ff8-986b-e987e6d07a4d.json": {
+      "md5": "bf1385804edc0db0db7cf779e67abef3"
+    },
+    "games/niuniu/import/2d/2dccc25b-1488-485d-9b93-4b8c8fee1707.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2e/2e3d2ddd-d694-4d4d-88ce-6d6ffa1713f1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/2f/2f13febc-fc0b-4350-9663-5b0d4fd93b68.json": {
+      "md5": "d388a3ab317fed458efaf82ba0f6c98a"
+    },
+    "games/niuniu/import/2f/2fc584de-1b5d-4316-8d75-9c875e0d6c35.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/30/30e53620-3bb7-4457-aae0-a510b21ec9fd.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/30/30fc0224-f544-4a87-a231-29547f0a78c9.json": {
+      "md5": "4c58b692fab238632503d8a891a0fbbe"
+    },
+    "games/niuniu/import/31/3126da5b-3b61-4f9d-b4d4-8b89c134fb01.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/32/324c8bea-5c66-4c18-a875-9c0d1ce40100.json": {
+      "md5": "3be00a02b8831ac7a4f2e053e447dd85"
+    },
+    "games/niuniu/import/32/32ae54cd-b349-40cd-aec2-61e4f110bc73.json": {
+      "md5": "51653cddc406108996fa318aefaddf0f"
+    },
+    "games/niuniu/import/32/32b39cd5-720a-4888-917d-9d87caab680d.json": {
+      "md5": "eaffe21a015231320b4ff615cc7c0a83"
+    },
+    "games/niuniu/import/33/33200bc5-e0a3-4747-9d71-85f1f37e1bd9.json": {
+      "md5": "ae71ba81b8a513cc5288179c0a266d18"
+    },
+    "games/niuniu/import/33/334bbfe5-2a2c-42f2-acec-8dc8bce998a1.json": {
+      "md5": "fa502940ec9c08df55ed267ce6c34028"
+    },
+    "games/niuniu/import/33/33aa68ee-4905-40fb-9fc1-3895bcf6095d.json": {
+      "md5": "36d9a1740dc1a5a995facdf99a97519b"
+    },
+    "games/niuniu/import/34/3420cf74-d747-4fcf-8bc4-b968a7121ad5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/34/349ae83e-4c37-4527-9238-2d650e8114ea.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/35/350bd780-c724-46d6-8a97-0f9246eb89b3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/35/3525ad70-b673-4d93-97ba-8d24a07c679b.json": {
+      "md5": "08c711f7bf01194b0deccd4ec44a74ec"
+    },
+    "games/niuniu/import/35/35d9d033-25c7-4554-b4e5-29413bf6420f.json": {
+      "md5": "48465778d8b0e00347f423e17607cabd"
+    },
+    "games/niuniu/import/36/36e74fd1-88ba-461b-b9af-b4838c2f75f8.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/37/3719a011-bff9-4065-8acc-3d441c5a3279.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/37/3720ea25-162f-40cf-ba6a-534275b5772a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/37/37962724-30fb-4918-9103-565b5f1ed027.json": {
+      "md5": "261db5b4caf271afa348c266c04b63a7"
+    },
+    "games/niuniu/import/37/379cb2a6-63ea-4d05-ab8f-98c9d0308015.json": {
+      "md5": "3e9b5024bf3c2c900105fca72da4d2a9"
+    },
+    "games/niuniu/import/38/38596bac-1ae1-4c6a-a9b4-318fc92949e4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/38/385f21cb-9bc8-40ba-9917-725d4506c487.json": {
+      "md5": "063f9bc84402b60bfe69ad935e1cea69"
+    },
+    "games/niuniu/import/38/3887a8ef-f7e1-44ef-a066-c89765439a3a.json": {
+      "md5": "05c1f2fe31f5cc3659290d637bd5ee8e"
+    },
+    "games/niuniu/import/38/38a09f59-03e2-4aca-b335-f00f724c1b35.json": {
+      "md5": "665750821185cf374b9d9833caebde00"
+    },
+    "games/niuniu/import/38/38f268b7-0940-4c2f-8199-ce4145420c2d.json": {
+      "md5": "f81932cc408455208b884b3bf0568220"
+    },
+    "games/niuniu/import/39/397d7162-43fd-41e6-8d85-4c7bb81d1700.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/39/397f29a6-1274-4140-adf2-3f881b84e626.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/39/39e5904e-0191-4a7a-8677-6e553b8e23f0.json": {
+      "md5": "9f3f36405f58335b0fe6a6f6ca3fe3be"
+    },
+    "games/niuniu/import/3a/3a5b3a37-9f49-4046-94c8-090ec9273d07.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3b/3b07bff6-e684-4efb-b651-4ea6aa6360d0.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3b/3b318c75-e04b-493c-84ef-2c12f0f8c119.json": {
+      "md5": "882edea55f98ddc6d8fbcad8ec45498d"
+    },
+    "games/niuniu/import/3b/3b3dec03-4c21-486e-99fc-c15d6d98db41.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3b/3b530a68-c758-42cb-bad4-93e36fd87da5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3b/3baa9196-63d4-4878-8f8f-c8d78fa5af21.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3b/3bb1c941-5789-4e14-812d-60e25e76d37f.json": {
+      "md5": "620a364ff27babb1f26ab9eab48f67f9"
+    },
+    "games/niuniu/import/3b/3bf32e68-6000-42d7-a19b-1b58cb6e3adb.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3b/3bf9e98c-b1db-4b4f-a914-3414d036133c.json": {
+      "md5": "3b50cb40cf264519b16ae400b2f0bdca"
+    },
+    "games/niuniu/import/3c/3c29962e-5b7a-41cd-8313-b4caced1cbf1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3c/3c7a3901-24e0-4c48-baef-22e6808d387d.json": {
+      "md5": "691955950a12d6e62b3eb8e403cf67bf"
+    },
+    "games/niuniu/import/3c/3cbb2408-60e5-4fb2-a91b-c8a9dabb3da2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3c/3cf97f03-c57e-4408-9b18-c5423515daca.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3d/3d1c10bf-595b-485e-ad7b-6594bce552d9.json": {
+      "md5": "1e9217ce4b4fabc7c11b5d6e72d7236d"
+    },
+    "games/niuniu/import/3d/3d3dca24-d7e7-46a2-83e1-5cfcda4cdc8a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3d/3d5f7056-54f8-4d17-b81f-ab5f03240bff.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3e/3ed1e862-5fdb-47e4-a6e4-1b25b3b23787.json": {
+      "md5": "5129f072422fb621374435e55778a7fc"
+    },
+    "games/niuniu/import/3f/3f214125-c1cf-4b2d-bf15-c14253924b1c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/3f/3fe86c87-88cb-4d8b-b57c-7ce59419df84.json": {
+      "md5": "efbc445806c0303f1fb3e05448ee7840"
+    },
+    "games/niuniu/import/40/40276836-c5dd-4b2b-873d-9f13bc1b1c37.json": {
+      "md5": "cccce58ea9128d820d94085f478bbbd9"
+    },
+    "games/niuniu/import/40/4031b085-bc39-4fff-84c4-79f8870a266a.json": {
+      "md5": "1e9ac508c3a543f153507d0de2d65b44"
+    },
+    "games/niuniu/import/40/4047345f-0865-4fc1-b658-e27f1b386b5a.json": {
+      "md5": "2e640ba916132f1539213de703acac01"
+    },
+    "games/niuniu/import/40/4049ed0d-de8b-4ec6-9e2a-3c6269e1c221.json": {
+      "md5": "f688271c0930956356b9d93977c1f372"
+    },
+    "games/niuniu/import/40/40807b2a-2bfb-4c34-b636-7d55667466ec.json": {
+      "md5": "20b97ec6442f06e3c4f607a6cb63d7ff"
+    },
+    "games/niuniu/import/40/40bc8826-f7a5-4b46-99e9-e171ac9c4c80.json": {
+      "md5": "e395fba3b127a804ab7b2e117b6c12bc"
+    },
+    "games/niuniu/import/41/413244ae-a0d1-4ab8-8b55-19b841e789e1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/41/41add9ed-0a26-4b93-bed1-9f5fb0beb2bc.json": {
+      "md5": "a213c95d1875f327013a4615681750d2"
+    },
+    "games/niuniu/import/41/41cb683a-a6bb-4a0c-a515-c4d21414a634.json": {
+      "md5": "59a0051da41e69022ee6ce3f65672995"
+    },
+    "games/niuniu/import/41/41d02578-9126-48b4-8412-c7f861a2e1e3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/42/42231d37-5c50-43f0-b636-16b6e1ef1e33.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/42/42620efb-7a5b-4720-b478-4e5a3106b049.json": {
+      "md5": "73af4f667dd8b765f93ecac934b82dda"
+    },
+    "games/niuniu/import/42/42981546-9ace-41ef-9d71-cbb92c2dd484.json": {
+      "md5": "f9dd82459b75cf8444d51da81a108cef"
+    },
+    "games/niuniu/import/43/4373079f-8bde-4e56-9f71-00a6a419ff79.json": {
+      "md5": "94cbe46aa12d7b2d49d540999967d122"
+    },
+    "games/niuniu/import/43/43a1f105-1a48-4a3b-91e3-78bcbd6550c8.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/44/4440e35e-3078-42eb-8b2a-0951ec7504ad.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/44/44a84a42-6541-4b2e-bcab-44929a5b7461.json": {
+      "md5": "32a7691e3dc7218c241112e5ee0992a1"
+    },
+    "games/niuniu/import/45/4532dac2-ede3-4125-8691-6d50560f7049.json": {
+      "md5": "a5d244bdb899fc69727892a9206bc2f4"
+    },
+    "games/niuniu/import/45/453bae7f-a91f-410a-b699-1d7250629e81.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/45/453fd935-8895-499f-89b3-ddb02f545a70.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/45/457d9091-ae52-4f8f-9cc5-c9f4df4aa3ef.json": {
+      "md5": "19c7aeea455f5f618dbac2413e35936d"
+    },
+    "games/niuniu/import/45/458020c7-7bce-4f20-a585-56128cc7d348.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/45/45dc770c-ac20-4aca-90b3-058ba4256443.json": {
+      "md5": "af6a55eb1a196acce4906ae4af0515d0"
+    },
+    "games/niuniu/import/46/46771917-088c-47c2-ab99-e03e0302bfe3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/46/468e1dcc-e418-4d4d-b9ab-4e2d0cfc9061.json": {
+      "md5": "6a4438380f9cf0d7990554b75bfde369"
+    },
+    "games/niuniu/import/46/46c8c063-acdf-4ea3-91bf-9993d52efdc0.json": {
+      "md5": "899c5dc618eecfe7b703c9037d6316fa"
+    },
+    "games/niuniu/import/47/470bba24-9d7b-41c4-a2ed-009b0ef48917.json": {
+      "md5": "08f1acdb3e6ca5579483821ac86921ba"
+    },
+    "games/niuniu/import/47/47623303-bf4b-4fab-9298-31c7a549b693.json": {
+      "md5": "b17e5245175fc61ecda91a57ed64afa2"
+    },
+    "games/niuniu/import/47/4789843f-4662-4d54-9546-35042140aa90.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/48/4827404d-a81f-482a-b578-52c92752f126.json": {
+      "md5": "066bc0e62d4ae3edd0e4d20f53ef8884"
+    },
+    "games/niuniu/import/48/48bb7fbb-d5dd-471f-9f87-b57bf09f7659.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/48/48e7c25d-c670-4548-a4da-98e38fde6793.json": {
+      "md5": "22e6d47d4348c01a292c82dbf9f578b2"
+    },
+    "games/niuniu/import/49/4909472e-5951-40a0-b081-f53f2b43a03d.json": {
+      "md5": "6a65b4ecdc32acd014b380037f45281f"
+    },
+    "games/niuniu/import/4a/4a2292d1-56cf-42aa-92b4-365145dbc455.json": {
+      "md5": "6a010721f9078ab1d1db852fbdfb4483"
+    },
+    "games/niuniu/import/4a/4aabe1f6-f5c9-4790-8eb8-cf0f60f5ff3e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4b/4bba1846-41f7-4317-9d3f-ff8339b16097.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4c/4c02bfb7-c088-4f32-8094-79eb4275fee9.json": {
+      "md5": "2b73ef229c122312cae91e0ca5c7b48a"
+    },
+    "games/niuniu/import/4c/4c48f637-960f-41cb-a36b-f5773eeaaf81.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4c/4c7c2308-b6a0-4b78-bd87-67a3565c8369.json": {
+      "md5": "feab8063cbc0d3c5ed10e16606f9bb34"
+    },
+    "games/niuniu/import/4c/4c9c3f54-dbfc-4090-af4f-71c214117923.json": {
+      "md5": "c7e5493dccf45260a5b9d225fd4f4607"
+    },
+    "games/niuniu/import/4c/4cc19c8c-1cac-404d-beee-16d378e39ab3.json": {
+      "md5": "3226ba4ac4a94413c2bca6b47dc50c79"
+    },
+    "games/niuniu/import/4c/4ce25234-a721-4d1d-92f2-0b66792c9d11.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4c/4ce26bf8-eb33-44d6-8f06-1d12d4c57b96.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4d/4d395ada-e15c-44fa-9f52-e82d573297d4.json": {
+      "md5": "4516aaf36e2479cdc01c1594ac40756b"
+    },
+    "games/niuniu/import/4d/4d3d4ab2-4d16-47f1-9a8c-14b70d5499ec.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4d/4d4bd30d-e450-440e-9690-1df103500727.json": {
+      "md5": "887257af231dd9cd93ae8822ce24d21a"
+    },
+    "games/niuniu/import/4e/4e75987b-64c3-48cf-8bfb-0cde29a06a6b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4e/4ea11dc7-8255-427d-b564-47354cda3113.json": {
+      "md5": "f18fb1eb80ab2691edd27eb02268eec1"
+    },
+    "games/niuniu/import/4f/4f61d5b6-3212-4f8b-b512-8d404902cfd3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/4f/4f87a29b-89c2-46ca-b424-d9fc5b04ca26.json": {
+      "md5": "b9481cfca164ae22dd5de67c19dd0711"
+    },
+    "games/niuniu/import/4f/4feb7bea-f4d0-4c43-a590-d1a48d68f581.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/50/501d77cc-d721-4503-b354-6f5534cc5593.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/50/50ffe08d-7315-4f20-93a5-c02e06105d6e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/51/51253852-f6b3-4539-925c-ab42b1db62d5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/51/5181c61f-5295-452d-baf8-830d1a089165.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/51/51e49df2-5a39-4f0d-8bcc-617b2ec26d6f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/52/521680d3-71bd-4a56-a8d0-25497b66cc04.json": {
+      "md5": "85104f7737ba83d508f3df86cce58c3f"
+    },
+    "games/niuniu/import/52/529fa8bb-86e2-489e-99b3-32c9f95066b4.json": {
+      "md5": "7256dfbb811a316529e8869426e2a2b4"
+    },
+    "games/niuniu/import/52/52d70ddb-548e-40ea-a9a8-fd6fd363927a.json": {
+      "md5": "cf1cc1756bf72025d93a94a14e1ddca7"
+    },
+    "games/niuniu/import/53/53c18301-739f-4c8d-9d6f-ece74a7e9744.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/53/53fa635e-d965-42d6-8f81-6b85d1306919.json": {
+      "md5": "5a4c624dd8e80a4d0a48ba1ce7925901"
+    },
+    "games/niuniu/import/54/54578d27-73ad-4048-b436-b6b7e78f73c2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/54/54651b4d-c16f-4bb9-9bde-83b64ae02103.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/54/549f3bff-925d-47c6-949e-f1027112d3aa.json": {
+      "md5": "c781c615067bf97c50d4fbcc82825798"
+    },
+    "games/niuniu/import/54/54fb6687-3e42-4104-b8b0-b9ed8d7a70e1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/56/561d80fd-ec27-49cb-b032-cb8be867b688.json": {
+      "md5": "45491e842aa33e99a733cfe04f363c41"
+    },
+    "games/niuniu/import/56/5662a1cd-1ed8-4e71-9a21-54ca77f73314.json": {
+      "md5": "bb2f8f05901ef38d8e93b3296df0e6dc"
+    },
+    "games/niuniu/import/57/571e36bc-c162-4116-93a1-d3d6af170104.json": {
+      "md5": "04ce3dfed8b9aea910e8cce723a39f33"
+    },
+    "games/niuniu/import/58/580c603e-2ce4-4add-9190-4d8b68b65f20.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/58/582c6366-96f7-4675-b481-e7d72a98917b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/58/58524c5f-8ddd-446b-b256-657baf2a13e3.json": {
+      "md5": "3bf2744e4ea5293cd9251dab4dd6459f"
+    },
+    "games/niuniu/import/58/58d4bbf0-820e-4097-825d-78dac66e3c60.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/58/58df9c3d-e2e0-4308-845f-2e4ac577732a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/58/58f53299-967b-42ac-8882-c66e839ab24e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/59/592431bc-4cd1-4aaf-8d80-2dae3fcff3a1.json": {
+      "md5": "edba9bcb8e0b47a626fdbfd2a08eb276"
+    },
+    "games/niuniu/import/59/59d5019e-2862-4045-9205-f3019509c7ee.json": {
+      "md5": "76819f11aa204977c28ef9a15ad8c50b"
+    },
+    "games/niuniu/import/59/59ef3463-aaa7-4e98-b86e-7cf7e41273ce.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5a/5a4f76a6-4117-4b3e-ab82-042291841c91.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5a/5ab1b25b-1ca1-4ea2-84db-6dc23d1f3145.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5b/5b076c36-3f9b-49e1-af7d-6e68351f9e5f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5b/5b15a7e9-580b-4120-98f1-d7dead5541e5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5b/5bae5824-d147-4ea3-b21a-15c1d118a8ea.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5d/5d1be398-220b-4ff5-9b26-e255b833d848.json": {
+      "md5": "fbc61aecd18fae2cd092af56d1deb3c5"
+    },
+    "games/niuniu/import/5e/5e73ccfc-c5bc-46d8-92e3-6299f2853cd4.json": {
+      "md5": "84508008837bb3b735e1903680017bd2"
+    },
+    "games/niuniu/import/5e/5eecac94-b3c0-4f7a-9dae-70f1cd5b5520.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5f/5f176f4a-0de5-472d-b420-63cd6d8748ff.json": {
+      "md5": "6bc470814012178e908a1f441caecdef"
+    },
+    "games/niuniu/import/5f/5f442e23-a9e8-44e3-a1c6-bd1e859e34ea.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/5f/5fa46d50-11b1-441c-926a-18ba5c57fe6c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/60/605addc6-54db-42d7-9e6b-0c150176b357.json": {
+      "md5": "f4ca84ba881e2ac78ee1de79368ed348"
+    },
+    "games/niuniu/import/60/605e1f45-c7e7-47e3-b109-410f71709729.json": {
+      "md5": "ac79ec72f0d155052e894773e0a46c56"
+    },
+    "games/niuniu/import/60/6074aec2-21e2-4820-a8b0-f3b62a0d9b46.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/61/6123cee0-f3a0-48ea-bf37-09a45c1a5a7c.json": {
+      "md5": "0449ed1d6192dcc2fcfd42684755ca02"
+    },
+    "games/niuniu/import/62/62224a97-07ba-44b8-901a-632e4c52bdaf.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/62/62b09203-9f01-426f-ab64-f126ef3bb952.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/63/637dbba3-ee0e-4897-84ea-5a936fe37732.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/63/63f4f2fd-f97a-401a-a89e-e750380f8474.json": {
+      "md5": "5af91db21a6c39a28ae1b1b857221aeb"
+    },
+    "games/niuniu/import/65/65c3f3b9-3009-4c89-a1be-559d63793bb4.json": {
+      "md5": "624b61d7a5c9f7c557cab134acc04d80"
+    },
+    "games/niuniu/import/65/65d38a26-6618-434d-998d-3e6f2fa7c73d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/66/66a961d7-e129-47e7-9495-bc41fc1e6d4e.json": {
+      "md5": "76a4a4581c2fb23b6aed37ce7efbfbb9"
+    },
+    "games/niuniu/import/66/66e7ef4f-ab31-49e2-a408-079e21632497.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/66/66ef3867-fcdb-4640-b1a6-94351f2a6460.json": {
+      "md5": "6a62c4a845c4025d713aa5f310219d16"
+    },
+    "games/niuniu/import/67/67360f01-7c72-4c5f-9701-d55d6c327766.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/67/67b4363b-d470-4171-9c8e-c825025f0d48.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/67/67e5536f-21c6-49a7-a5ba-7cccf0fd56c8.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/68/68e6dbdf-2ebc-4056-b293-b8c61a08bcaf.json": {
+      "md5": "c676e203d9d4850019fba306715729cd"
+    },
+    "games/niuniu/import/69/697817cd-9c03-4455-9973-31a12ac449db.json": {
+      "md5": "2822f8e9cdbf136c577837bfd7a51ad5"
+    },
+    "games/niuniu/import/69/698f303e-e562-480b-b768-7a77f7e325e4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6a/6a1ee166-5dd5-4300-a289-0151161bbbfc.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6b/6b320a0c-2042-4bc9-aeba-f8471dbf52e2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6b/6b7ba5fd-ff65-4f24-9d17-83ca20f78aab.json": {
+      "md5": "a86a77896768c3e7bbf98e245baa4fbb"
+    },
+    "games/niuniu/import/6b/6b7f0c1e-d8ea-4a53-ab40-cc56ed04d32e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6b/6b924b22-ba53-4287-83ab-1b104f6df924.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6b/6bb484ba-f460-4dfd-9f2e-e8a142d0f1f4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6b/6bdd05f4-e159-45bb-b0d9-f2e2f57ed424.json": {
+      "md5": "d0c68409e45e30242a9b499132e1b117"
+    },
+    "games/niuniu/import/6c/6c050c2c-4121-49ea-b054-73cc94c1ff15.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6c/6cc3a2f4-4059-4e85-8141-79b462f092ef.json": {
+      "md5": "cffca8988548b39d1d3b56b44bb202a6"
+    },
+    "games/niuniu/import/6d/6d0c1c44-b361-4b1d-a203-50dbcbd79efe.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6d/6d820913-f068-458c-b32e-151bee0f5970.json": {
+      "md5": "cccf303ec60eed369cbd8ffcdea7637d"
+    },
+    "games/niuniu/import/6d/6da1fcac-6bed-443b-b46e-81aa7bd7cf4c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6e/6e6b2f48-481e-4918-bc81-e452d9188e8a.json": {
+      "md5": "5d135ea96872b1c6b595ff06c4261d16"
+    },
+    "games/niuniu/import/6f/6f5d0547-63d2-43ac-a929-952a3e9e91c3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6f/6fadd7d8-5f4d-4b5b-8226-4c0c06134202.json": {
+      "md5": "f6b6352d6da9e9edf9c190b0b42bfa64"
+    },
+    "games/niuniu/import/6f/6fd0d443-5756-4a9f-857a-9eb29e62a0ea.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/6f/6fe1e612-725b-42c1-a24b-479e211d4610.json": {
+      "md5": "61c26d00b9d1af2d43a244da9e52e142"
+    },
+    "games/niuniu/import/6f/6ffea69f-081b-41ce-b580-ea879af6586d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/71/715af91a-c771-4302-b3bf-9505dab5bb6a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/71/71730aa0-3ade-4c78-a8bd-da7e646f580f.json": {
+      "md5": "74710da8b146ab31847e608bbfcfda24"
+    },
+    "games/niuniu/import/71/718f5d9d-4515-4680-a976-d03ce65802b9.json": {
+      "md5": "d2998d61022f4c780c8e01f63e3f1fb1"
+    },
+    "games/niuniu/import/73/73102ea0-4139-470a-9d49-357cde4471dc.json": {
+      "md5": "72cb5262d77f21e49eddeabc6791b292"
+    },
+    "games/niuniu/import/75/75137bbf-99c6-4720-8dee-e2c1685ba6dc.json": {
+      "md5": "560bb23fae62b45756433ca7408292b5"
+    },
+    "games/niuniu/import/75/7599a973-da60-4d77-bf86-4d1ed2067629.json": {
+      "md5": "c10a58304d65124edf0a277f98a2655a"
+    },
+    "games/niuniu/import/75/75b8fd8f-c153-4df2-8fc0-4bfc74ef8a5d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/75/75f67cb5-44e0-428f-b8b4-eadefffab7e2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/76/7619e8e4-d041-4e04-8755-db9d4584911c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/76/762b8047-f146-43eb-974e-e1292f089507.json": {
+      "md5": "102271df5722f2346eac17a8576743d7"
+    },
+    "games/niuniu/import/76/7698a6eb-d543-48ff-b961-cd317d0aa3ee.json": {
+      "md5": "fbc3aeaf47cff5fbe570e7546b3aa741"
+    },
+    "games/niuniu/import/77/772eaf55-075e-4e8a-ab47-95d75ba35d06.json": {
+      "md5": "d10bbed93b6a82af55a99a40a36beaaf"
+    },
+    "games/niuniu/import/77/7775870a-e87c-48c7-9560-80d95d1b736f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/77/77c08169-47b5-47bf-9cd7-482e98f081be.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/78/781b1f4b-0986-4cf3-bf4c-f7738014d657.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/78/7871105e-85e5-4d15-843b-eee5b1967a32.json": {
+      "md5": "92fdf5c2a458b31edd763f5f91a0865a"
+    },
+    "games/niuniu/import/79/79f963b6-6336-4577-a6c6-ff7266d8778b.json": {
+      "md5": "aeb53b0b532fc8effd5d9ce013b9c7a8"
+    },
+    "games/niuniu/import/7a/7a6e9551-1469-4e48-a6a7-be895d3c7fff.json": {
+      "md5": "fa6de1d3230233f7f3d90598044f1fb9"
+    },
+    "games/niuniu/import/7a/7adc61c9-db51-4737-9977-b11ffc0674fc.json": {
+      "md5": "fdc927d06b5f5ed2b2361d78fcca9b90"
+    },
+    "games/niuniu/import/7b/7b21e3f0-fc30-4ca3-9147-854072a7b540.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/7b/7b424587-5e64-4961-a1c9-0364704f5597.json": {
+      "md5": "8b9bda24e5bdbe6c46b9bd2bf3aa3e84"
+    },
+    "games/niuniu/import/7b/7b80a0f6-c8a3-43ca-b000-54f44a0190c0.json": {
+      "md5": "47f4ea80b0dbd877cd58ddfe01eca8d7"
+    },
+    "games/niuniu/import/7c/7c43b04a-2dc5-4ebd-8949-4fd9ebb9ed40.json": {
+      "md5": "17a9412791b043ff65cadb9e6ec6ec2a"
+    },
+    "games/niuniu/import/7d/7dcdd8e6-0ed7-4ff8-b187-712db1bb0fc4.json": {
+      "md5": "135ea80f35d9bbc9edbed370cbeecb86"
+    },
+    "games/niuniu/import/7e/7ea59fe6-af3c-4e93-bf90-694838166e88.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/7f/7f39886a-ff4c-4068-b196-44ec879d84d8.json": {
+      "md5": "ab9b6131f57357111cedc73d6cca576c"
+    },
+    "games/niuniu/import/7f/7f5eca1a-5d2b-4c8b-9002-071cb283befb.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/7f/7fa27e8b-c524-4992-8d61-1beefa991639.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/7f/7fbea7d6-a65b-4815-af00-b8fb05539f7b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/7f/7fe255a6-18ba-4727-aefb-3ebfbcbe5304.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/80/80042061-95fd-4cc3-afff-1b4fddeb8206.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/80/8016abfc-f0da-4ceb-92bf-a26f3713eff9.json": {
+      "md5": "d5abe86e8590e6cfe6902a6a4462a8a7"
+    },
+    "games/niuniu/import/80/80d01a0d-d9c3-429e-bcd5-39eabc3fae64.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/81/812c46b9-05ca-4fc5-9c28-787b6ddda655.json": {
+      "md5": "a63092f234c33b5a255fde7364e036e6"
+    },
+    "games/niuniu/import/81/81e8ee0b-0fe8-4048-823f-75aa07bd3774.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/82/82b59485-d2ce-4352-9bd0-708520244ce1.json": {
+      "md5": "9e78b87f87365176c44bc64978311448"
+    },
+    "games/niuniu/import/83/8342f57c-e958-4b47-9dac-0a00768d7cab.json": {
+      "md5": "19aa2fe085d43091ed7ead50eda0718f"
+    },
+    "games/niuniu/import/83/83793080-6837-4bf5-b4fe-98f039118a5b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/84/8471b350-1bc8-45db-912f-6c8af2e83c53.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/84/84776b3f-1b18-484e-9861-07f87b5c3b33.json": {
+      "md5": "e99aa8559ece8c4e9fba0661b6c18b97"
+    },
+    "games/niuniu/import/85/85530f09-8d9c-4d67-a4a7-63998a3610f6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/85/85a395b3-7886-49b0-96b7-32c9be1910b1.json": {
+      "md5": "87f94a026783d26a53677773fda270c7"
+    },
+    "games/niuniu/import/86/8618a4f1-bd66-4d71-9a13-8d382be2ba38.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/86/8639b32d-f4ed-4b14-8032-5dc6742ec552.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/86/8692aed3-6150-4cf7-beab-e853a8516fcf.json": {
+      "md5": "17e58e8a58eb1029fd50ef06080496fe"
+    },
+    "games/niuniu/import/86/86c3c8f9-e69f-4e8b-b83b-9777df4874c9.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/87/8710524e-0871-4d39-b172-ca8e33dc3cdd.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/87/8761a425-938f-440e-96df-bdeabe8180d2.json": {
+      "md5": "c17c82a56a985a15bebf1edc83c5cfec"
+    },
+    "games/niuniu/import/87/879ff183-ac30-4ef1-afce-4f3f4bb97cce.json": {
+      "md5": "6d77bce42db34fdce670ae8d12866748"
+    },
+    "games/niuniu/import/88/8805c036-c1d7-426d-b600-04da02910206.json": {
+      "md5": "bc29bc31cb1994c2828153aa68198367"
+    },
+    "games/niuniu/import/89/8908054e-e943-499c-9c96-67b66a42d00a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/89/8935eee9-e216-4565-a000-a91a79a9c33e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/89/89b0b081-19f5-4de8-9890-29822b778ea0.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/89/89b2619c-3863-4ba8-ae83-5a49b044bf69.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/89/89c93790-6ff4-4510-913a-d51dc9828551.json": {
+      "md5": "e3dbf9294be89a889a728e77837823f9"
+    },
+    "games/niuniu/import/89/89d140c2-f8a5-4eab-99d2-3f1aed7338b6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/8a/8a038fb4-a8e8-422e-afc0-2af54a172a1c.json": {
+      "md5": "c339f4d3dce49ccb25945447a0249ae3"
+    },
+    "games/niuniu/import/8a/8a0ad444-85e9-4521-8b0c-e674c1528b21.json": {
+      "md5": "fdfa522843ce8b07f471ab8755d1a6b8"
+    },
+    "games/niuniu/import/8a/8a6e3a6e-68e6-4391-877d-fcb54df89192.json": {
+      "md5": "0a83d62269e79f4e2545f707e9dee206"
+    },
+    "games/niuniu/import/8c/8c3c16af-dc27-49a7-b07b-322796bcd09c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/8d/8d63c6c6-afe4-47cc-bced-9fcf611f5eae.json": {
+      "md5": "9c1d178c1b7552b695d2a01d2742160a"
+    },
+    "games/niuniu/import/8d/8d6e2343-899b-4194-b9fb-dcf48ec9226c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/8d/8dd82103-89a4-4a44-81d3-fa88191343fa.json": {
+      "md5": "5607dd5f55d39fb042cd7b0288902263"
+    },
+    "games/niuniu/import/8e/8e2aa7a4-9851-48ed-9ced-1657c1cb39fd.json": {
+      "md5": "9c39fbb10e9ec05c1788586061339388"
+    },
+    "games/niuniu/import/8e/8e34e29b-4719-4356-a013-b94c20027d67.json": {
+      "md5": "39aa92811ef3f1034ac6770279b9485d"
+    },
+    "games/niuniu/import/8e/8ea1fd07-d802-4960-b9cf-65f5ebde7d58.json": {
+      "md5": "7fe75c4736648496c81ab8a4ce06f072"
+    },
+    "games/niuniu/import/8e/8eb2d4fe-2dfd-47b2-b045-69c2463cea99.json": {
+      "md5": "0c7e4c416fa6d80540a98529cb7bbcf2"
+    },
+    "games/niuniu/import/8f/8f05b5d7-02fc-4b9c-b6b6-f3152ed7b828.json": {
+      "md5": "d1f45834864b7a3ca2673c12f5f86739"
+    },
+    "games/niuniu/import/8f/8f7bc8f5-c0ac-439b-b94a-ad5f26e57475.json": {
+      "md5": "514acb8a33640f918f4d782905cc7b26"
+    },
+    "games/niuniu/import/8f/8fa39858-57f2-4565-ac86-b98743b6d0e3.json": {
+      "md5": "0fc95cf27d170f6dced16eecd5df4ac1"
+    },
+    "games/niuniu/import/8f/8faf1b09-7b86-456d-9284-0357e4c932ac.json": {
+      "md5": "730c88bbe4dbffab65679db7f33d2fef"
+    },
+    "games/niuniu/import/8f/8fe7016b-e9e4-408c-8e56-c2b67b31cc43.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/90/9054be5f-b48f-4504-b178-e669e0a0bfd5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/90/90ac699c-6c20-4c50-8a5d-bc2fbdf63061.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/90/90ae69bf-ef51-43a5-a571-a55ccde9854c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/90/90e14a1d-efd6-4448-83ef-33c64ac62c61.json": {
+      "md5": "e9b5318a94a1d0c762fb9cd16186dac9"
+    },
+    "games/niuniu/import/91/9187e700-d154-46ba-b961-55f669af9191.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/91/91ae572a-c519-4d42-8cc9-035ff4a2aac6.json": {
+      "md5": "99c03f35a28505a57714ad886938be78"
+    },
+    "games/niuniu/import/91/91dc3df4-5310-46bc-9721-ac13dcae0983.json": {
+      "md5": "aa81445fbe18d72671af4ad57695a06d"
+    },
+    "games/niuniu/import/92/920891f5-9d1f-4446-a40d-62815e1c5144.json": {
+      "md5": "cb6ac8ffba75a142f30c6c72bf59c951"
+    },
+    "games/niuniu/import/92/92244489-dc63-4d12-80df-2c3390aeb149.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/92/92331fe1-83af-4952-828a-a8220ae345e5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/92/92d1e42a-8673-40de-a41f-d4e3b47e4492.json": {
+      "md5": "c8885dd240a9dc49d242d6b2749b5f3f"
+    },
+    "games/niuniu/import/93/932803e5-2831-4fae-a726-244dd3c0e684.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/94/9403f340-e07d-479e-b1d1-1a1b19361239.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/94/945fd4aa-c52d-4f5f-84ae-d803adbd0f31.json": {
+      "md5": "75fb61a0479cae3946280787478ca424"
+    },
+    "games/niuniu/import/94/949e8376-8d3c-4567-8030-9a2468308855.json": {
+      "md5": "a2e0856cde8074de949e49d82d95d5ce"
+    },
+    "games/niuniu/import/94/94b4db69-3a50-444a-8313-1769b399e650.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/94/94b60900-ca28-4c1b-a375-26c891b25d32.json": {
+      "md5": "8163d4ff5fb33cd5ff5bd87ca0739782"
+    },
+    "games/niuniu/import/95/95d5ac92-13d6-4ec3-976c-ba7dd744a9be.json": {
+      "md5": "fd3a4bf959663b23ad79124b13c68006"
+    },
+    "games/niuniu/import/96/9601d6f6-d675-404f-b455-106f9d1a211a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/96/96354393-c631-4dbf-a105-7fa140015fb3.json": {
+      "md5": "9a2639fbb5e10119c56a8311e02c4a2f"
+    },
+    "games/niuniu/import/97/97cc69f1-428d-477f-a881-df6f3c6d2da0.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/97/97f234d2-fbc9-42c6-8612-09f85e37e51f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/98/987329a0-3337-4643-9f5c-af3586e8e68e.json": {
+      "md5": "ccd2927c8455311ebb4e1d81f108993c"
+    },
+    "games/niuniu/import/98/9881ec6c-c956-4a78-899b-5c6e223afddc.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/98/98ac2b67-a2d9-4ab8-98d2-484d94c3d18e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/98/98e50f7f-360d-4d1b-9fea-ac9259a8c19a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/99/9979b935-df82-4337-8e43-97f25ed28f42.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/99/99e941b3-c0c0-44b5-bcd9-ef63c6ba8032.json": {
+      "md5": "69d8479315240b8e02f26c76ace4c9c5"
+    },
+    "games/niuniu/import/9a/9a110f75-ed1e-4461-89d7-9fb8f463193d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9a/9a2106d2-6041-4fe5-ad19-c97b6791d11f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9a/9aa5bfe7-54f4-4ec4-b660-24a96184e21b.json": {
+      "md5": "38b5057ff4dd7f87e9efcfadcd396090"
+    },
+    "games/niuniu/import/9a/9ab1e371-2708-4778-bed2-1e76c930086d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9a/9af4188d-aa1c-4e25-a4f7-869e93b471f3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9b/9b34ed00-a706-47f9-9bfc-701065456ba6.json": {
+      "md5": "94a9bbc4df5a0d441c63d334542c984c"
+    },
+    "games/niuniu/import/9b/9b48d360-f359-4ddb-9ed8-44e8abae9ee9.json": {
+      "md5": "d28b0134a4bb501d210eeff9b07d208c"
+    },
+    "games/niuniu/import/9b/9b4bf96b-6e50-436f-bacc-b58be444f669.json": {
+      "md5": "8d63b011d2d6bbb2128e02b691525c4c"
+    },
+    "games/niuniu/import/9c/9c1d3fdd-4caf-4532-a998-88027984d33d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9d/9d091bd7-4a05-4705-85e0-ae245f332210.json": {
+      "md5": "a3420a0a141f95ec9dc7c1bc8e54eebd"
+    },
+    "games/niuniu/import/9d/9d2c259d-9e98-4426-8b14-62c11dde04d3.json": {
+      "md5": "d3566103cb7b12d2fef2e814155bce34"
+    },
+    "games/niuniu/import/9d/9db5f3e2-d398-45d4-9ce7-43824c5d761f.json": {
+      "md5": "6699c803b3ce09b38ea15771e978e4f9"
+    },
+    "games/niuniu/import/9d/9de38a2f-7288-4eca-95a9-c2fbaeed2be5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9e/9e048163-8877-4f56-bd29-d0247299f678.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9e/9e6bf8f6-061e-4a55-869b-4e0f0a6dba54.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/9f/9fad49de-161a-4b4b-bf05-d2e9fa1d82bd.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a1/a1ec1dde-b770-44a2-869a-cea4a0d14000.json": {
+      "md5": "c94cbfca3e148f56b6515304442cec53"
+    },
+    "games/niuniu/import/a1/a1fea07a-7552-47a9-85e2-ddefef93375b.json": {
+      "md5": "bd1f5cad4d4ac5a578ae0c6496ccb65f"
+    },
+    "games/niuniu/import/a2/a2863960-a8c2-451d-88ec-90c4932e5ba5.json": {
+      "md5": "847cba69ce65e56dbd98b1ed06e615ad"
+    },
+    "games/niuniu/import/a3/a3ab88f5-ea70-4494-832b-da9853f14f1b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a4/a423f4c5-9136-47ae-832f-a04936eeaf45.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a4/a4eb595a-176b-4bd6-84bf-26e9c2c34060.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a5/a5210016-6b09-4854-9907-97ff33d033b5.json": {
+      "md5": "6e13c9c0af906c5e7eaa9cdacb937d07"
+    },
+    "games/niuniu/import/a5/a560d8e9-a03e-4eea-8471-1cac61998d92.json": {
+      "md5": "19fe14e02c6914bf358b3bf4baccddc2"
+    },
+    "games/niuniu/import/a5/a5763bae-ff5f-45cb-ad96-fb6c556a593f.json": {
+      "md5": "f0c591d8a147572a74d594df9bcdb7a4"
+    },
+    "games/niuniu/import/a6/a6544588-b41c-4d3f-b2f2-e87d3cacf2da.json": {
+      "md5": "fdd9bb0f3dfe10797c90f059d7a06771"
+    },
+    "games/niuniu/import/a6/a6d9f246-ca6e-43f2-be9a-9231a6f800f4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a7/a720a17e-8d16-4faa-b390-5ee1159832a2.json": {
+      "md5": "d598b56566cafcfc9872f19aa698f1a6"
+    },
+    "games/niuniu/import/a7/a78759ff-e12d-45f1-904c-ae1adafcadf5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a8/a8629f79-d1fd-4925-9969-1e8123fa5519.json": {
+      "md5": "4be6ba4a96f4b38ccfeabbeaf016b3d3"
+    },
+    "games/niuniu/import/a8/a8890aa1-eb09-4208-9466-c9b52e1b7679.json": {
+      "md5": "71c8eb8272846da1d75adc8b0a239f8c"
+    },
+    "games/niuniu/import/a8/a8bdc4c7-a572-493f-98b6-a82a4b6b525e.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a8/a8cdf609-04c9-4b17-b14c-4a424d4a713b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a9/a91e2a75-2c7d-4ecd-90d9-1620fe1fbfe6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a9/a9640e75-c454-419f-a843-7205d254105b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/a9/a9f796ae-dd1f-4deb-a1af-85657cf8ec2d.json": {
+      "md5": "60b1090db95c7ca403c147634123b54c"
+    },
+    "games/niuniu/import/ab/ab4271d1-aa1c-46c9-8315-f8883c480e8d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ab/abf53fed-7107-4c4a-b4d2-a55d7a7de7df.json": {
+      "md5": "37655648e8ad5e49cae2896cd89847c0"
+    },
+    "games/niuniu/import/ac/ac254299-3d7e-46fb-9f19-e4d665fc23aa.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ad/ad131310-5c48-4751-a8ce-55002eee6ec6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ad/ad31d56a-270d-479d-b5dc-90f7041a8e94.json": {
+      "md5": "41e4099b4d603b56930d26fc4654d455"
+    },
+    "games/niuniu/import/ad/adbec588-2be8-47e9-a90f-2a7a1190f140.json": {
+      "md5": "8a3c86ca1f3773c1b1e9a9a4564ac187"
+    },
+    "games/niuniu/import/ad/adc4434b-adbb-4aeb-a0d2-10635501d783.json": {
+      "md5": "5044e9e968d4141a1c6b09648f02652d"
+    },
+    "games/niuniu/import/ae/ae58d2f3-2067-4c13-8d4e-6c2dcb24ae86.json": {
+      "md5": "e8c76932ab3e304cfe6e2223c31bc887"
+    },
+    "games/niuniu/import/ae/ae6d93f6-2141-45a3-a1da-6d30b41ae8ac.json": {
+      "md5": "5270a72c187f44ffca265d5a6c108d7d"
+    },
+    "games/niuniu/import/ae/ae7059a6-b547-42e1-b4ae-843dd6d64226.json": {
+      "md5": "f841c45728bac1a8b85e85e09a6971e9"
+    },
+    "games/niuniu/import/ae/aeef9f88-ffd0-4303-adfb-1b07b25da2f2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/af/af9b18c3-c08b-4828-8c89-e0b0439e1c0e.json": {
+      "md5": "214d3cf20a6d6e66a9279f558cf7f711"
+    },
+    "games/niuniu/import/af/afc0b3ee-e285-4063-afb0-5160a6cc8e51.json": {
+      "md5": "3cff6d09195410f896380a7e2fb90f7b"
+    },
+    "games/niuniu/import/af/afcbb1d0-1e02-411a-b0ad-94a99f6bcec4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/af/afe09dde-bc60-458e-a209-8cd701491633.json": {
+      "md5": "5d74c3e12e7134c976f3694932cbd0d8"
+    },
+    "games/niuniu/import/b0/b00f07b5-c43f-408c-84a2-d949858b46b3.json": {
+      "md5": "bd2d277b8f2479d3cc82ce4ecb39fdfe"
+    },
+    "games/niuniu/import/b1/b1a4f0c6-7534-4b82-8f9f-c8d27d418479.json": {
+      "md5": "86763645a272fb60c9d33c4b83cd7307"
+    },
+    "games/niuniu/import/b2/b2b090e1-831a-49df-800e-bf6bc79be9d6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b2/b2ef0dd4-5db5-4ef1-a682-db222aca0fbb.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b3/b34c5e88-8d69-4985-ac72-4d0aa478439d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b3/b3bbade4-0519-4135-83ff-4438251706aa.json": {
+      "md5": "67bea64177fb044e7e0ad191429df8c1"
+    },
+    "games/niuniu/import/b3/b3d9e3ba-12ea-451b-bd00-7152661a718c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b4/b4392ae8-75b0-4a76-9a33-5ceb969d41c4.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b4/b43f30a7-80e7-4598-93a4-17cc6de99e9a.json": {
+      "md5": "a6a0a533778bc6f55ecc6b2692698e05"
+    },
+    "games/niuniu/import/b4/b4fa67ef-2606-4071-9809-cf827f6b567b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b5/b5355ff5-6268-414a-9d28-cc956fa2237f.json": {
+      "md5": "9a3d89dc6d97c9f8ebd08bab75d11d65"
+    },
+    "games/niuniu/import/b5/b5656d91-80be-4e80-b8c4-62d5b28d28b1.json": {
+      "md5": "384252078b41dc1e32311ad1485833c8"
+    },
+    "games/niuniu/import/b5/b57cb0a8-e837-47a9-bd35-924add1bd859.json": {
+      "md5": "78d2a1d135bc19cd136a703e17928078"
+    },
+    "games/niuniu/import/b5/b5ee1f3b-3b74-4441-989b-9cd504127fc3.json": {
+      "md5": "bb5c35ca215ed25bcd175c9288ded6e7"
+    },
+    "games/niuniu/import/b6/b628f20f-5de3-4d5a-9e64-70ee990f679f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b7/b71f36d0-9be9-44bf-82ee-2e12170c9634.json": {
+      "md5": "4e823c7a3d82768391567ab0efd81e87"
+    },
+    "games/niuniu/import/b7/b785d547-267e-4a9e-97eb-0bd4d3f2f90e.json": {
+      "md5": "d31230ff5fcb8ec158dc809e80a59b7e"
+    },
+    "games/niuniu/import/b7/b7bca216-d5e1-4f2b-954b-e647f069febd.json": {
+      "md5": "916b6f4ed5d5725eb97068153a849834"
+    },
+    "games/niuniu/import/b7/b7e63190-bedc-4137-913c-da37bc13b1aa.json": {
+      "md5": "6e859f6ff3b8b7906572ecd141c4169f"
+    },
+    "games/niuniu/import/b8/b8dc7729-c328-4d6f-b0bd-02a257acd8ee.json": {
+      "md5": "fe529eb21e4e8cf2f2502ea24ebd4705"
+    },
+    "games/niuniu/import/b9/b99baff6-5166-4448-adb1-f6f943528444.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/b9/b9a3ee46-6b07-4055-ae5a-61e02d625269.json": {
+      "md5": "f3640f5441a8faa3b38e91a6b2918350"
+    },
+    "games/niuniu/import/b9/b9e57cdc-7fb8-4684-a562-841e8155809f.json": {
+      "md5": "97dd61f6ca6c05171ec15698c0eaf0aa"
+    },
+    "games/niuniu/import/ba/ba434202-704b-4aa2-a296-92f14f662978.json": {
+      "md5": "d4309ebbf1629fd8d166e71bce5527d9"
+    },
+    "games/niuniu/import/ba/babcdff5-2a82-4184-8e78-fdb92429ffea.json": {
+      "md5": "4321df99645de3828ca28a0de24b0638"
+    },
+    "games/niuniu/import/bb/bbceb1c1-1c95-4e8b-9e3b-a091dad9edaf.json": {
+      "md5": "dfbd3c53e5b8f31cee497ce4dfa42faa"
+    },
+    "games/niuniu/import/bc/bcefc3b7-7f91-4caf-8b03-b706a269140f.json": {
+      "md5": "654ef31c6a756af2476421f2eb0c2212"
+    },
+    "games/niuniu/import/bc/bcf035b5-95f5-480d-b025-77ee7374e720.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/bd/bdc2ff9c-775f-4dd5-8612-b7d0f7ed706f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/be/be5a1ee8-1ddb-4902-bc8e-33490b34b678.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/be/be64ad53-8e26-4e81-9d80-39ec8e9a03d4.json": {
+      "md5": "b16201a9a22de1f6d8ee0fa526e1886a"
+    },
+    "games/niuniu/import/be/be65bd00-d419-4c66-a96b-f5ad31914257.json": {
+      "md5": "fd6014d9e2704cbb0e20f963ba7bd0bd"
+    },
+    "games/niuniu/import/be/be6cf81c-ffad-4cf0-9c85-d12f23e53b8a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/bf/bfa8eec3-2ba4-4cb9-ad6d-4bb7d5ee3985.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/bf/bfcd72fe-79fd-4153-a2c0-a9d56d9836ff.json": {
+      "md5": "9de5ae7e95d415b8150f5106848b545e"
+    },
+    "games/niuniu/import/c0/c0657b33-8486-449c-9491-62b8da1b37fb.json": {
+      "md5": "caac6c3c0f9a1e54a8b55dd8375138ce"
+    },
+    "games/niuniu/import/c1/c1aa2797-b413-45d6-b2d9-dce0dca24fd9.json": {
+      "md5": "225a1968c84d5fbbafc8fda9e009c190"
+    },
+    "games/niuniu/import/c2/c28f1e89-7d37-412b-9d77-a2bcafb07bef.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c2/c2c273c8-c267-4d3c-8104-cc621fc6943b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c3/c32e0494-5dcb-4c17-a81d-391671c6e66e.json": {
+      "md5": "ac7ad276dac76ccf1d104bc84a3ed452"
+    },
+    "games/niuniu/import/c3/c3ab3bc5-0292-45e3-9e3c-535df9f6e7ce.json": {
+      "md5": "92a99d9fa1c7ee2463a921e6a9d30185"
+    },
+    "games/niuniu/import/c4/c4c1f1b2-9b58-4d09-a315-57737f0f389a.json": {
+      "md5": "b1b1a34e0f6b8426d85780ef018e1d52"
+    },
+    "games/niuniu/import/c5/c51388c9-7398-40ad-b62f-c986177e857b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c5/c53d9878-da94-4977-9092-e4ebf2db5eb6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c5/c583d86c-a6c0-48b1-8e5c-548ff86fdd71.json": {
+      "md5": "eef28793fbeb4738ca9b2c4f5fa0158a"
+    },
+    "games/niuniu/import/c5/c5b584f9-fe67-43d5-bf1a-323ab00c08a9.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c5/c5ca1f7c-dcc7-4a4a-b86a-4954f562257f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c5/c5d84bd5-2404-4548-b216-41db55b19d97.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c5/c5ed65fe-e786-49bc-bed9-ef87c748edd3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c6/c643ba20-a4a8-4740-83b2-094cd661cd87.json": {
+      "md5": "fe01bd1c6c1d1701d3fee2006c43c635"
+    },
+    "games/niuniu/import/c7/c72948db-ee46-4f8e-97cd-6c36f4dea5f5.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c7/c72fd2bc-b4c7-4a89-9317-7f95ffbb944c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c7/c7b41c65-442b-42f2-aadc-8104f0e8ba69.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/c7/c7e2cb93-ab9e-4dd9-8e6a-47e224dc0eef.json": {
+      "md5": "9f092d2c237ae0196bcba357a37c328a"
+    },
+    "games/niuniu/import/c8/c878a4d5-b87f-49d9-856c-b2a875efa51e.json": {
+      "md5": "f1e7eba60828146fd25aaf89d618ab8a"
+    },
+    "games/niuniu/import/c8/c8a7b8d7-a711-4eb2-a03f-e4d73cb027a5.json": {
+      "md5": "85e2fc28c447bf1e0642c47fa6b3eefe"
+    },
+    "games/niuniu/import/c9/c9ecee2f-b2e6-4418-9cd5-6d37b55e4c74.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ca/ca2fedbc-4a09-4381-9a1e-8783ee43c620.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ca/ca319485-8bde-4b2c-a74c-c341d8c3e457.json": {
+      "md5": "74a6717e53acf5e9c40d24703a1ee600"
+    },
+    "games/niuniu/import/ca/caa7b3d0-ed50-434f-b54c-486302953483.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/cc/cc29f9e8-468d-42f0-855f-b53b46e41725.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/cc/cc475b80-69b8-41fe-9ad6-0fd3507869b3.json": {
+      "md5": "158eadf256a5011b9f5378f695a724c9"
+    },
+    "games/niuniu/import/cc/cc60c6b9-10a8-41a3-b53c-0baf35ed63d1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/cc/cc9a690f-573c-422b-bdd4-ad8892fbac97.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/cd/cd8a099e-61af-4e66-bc7b-ac9a39b45f2e.json": {
+      "md5": "75be0eec41112e07f17f9322a55e9101"
+    },
+    "games/niuniu/import/cd/cd97a61d-860c-4576-ba17-2c0cb77d5349.json": {
+      "md5": "6c0ad71708e10c29ae87410ea3cf083b"
+    },
+    "games/niuniu/import/ce/cee88308-31d8-472d-b986-ad21dd9ae7b6.json": {
+      "md5": "dced897174712f7c2c1fad523058985b"
+    },
+    "games/niuniu/import/cf/cf9219b5-9a2b-40f1-bb2b-45cb41a4bd2a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/cf/cfc7a16c-13c1-4908-b635-13de7cf339e5.json": {
+      "md5": "09edca0ff4a394c698f2ac1616c94332"
+    },
+    "games/niuniu/import/cf/cfe124c5-4f7f-4c9c-acc7-0f42b92c9310.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d0/d0917617-c5d8-4b1a-8bfd-2b19b2ddbfe4.json": {
+      "md5": "27da89981d50d8aa4316ca89a0276b04"
+    },
+    "games/niuniu/import/d0/d09c9ae0-e04b-47ea-857b-83ec841ca987.json": {
+      "md5": "dc15ca0e4770a876936f0dee5b832fb8"
+    },
+    "games/niuniu/import/d0/d0bfd270-9877-4c4c-a0b1-daed223314af.json": {
+      "md5": "64c43548771f7e6e872d1794b8acef7a"
+    },
+    "games/niuniu/import/d0/d0d052b6-b35a-4420-ad49-e47f48f1ffaa.json": {
+      "md5": "4459a65b58d84aa9d0ed6cd1eafbdcb5"
+    },
+    "games/niuniu/import/d1/d107dc36-555b-4b2f-9006-02548b3f13bf.json": {
+      "md5": "417eebf14ad081f5e7318677723c9807"
+    },
+    "games/niuniu/import/d1/d12a7a4d-4a29-4e27-a665-94f7114e2165.json": {
+      "md5": "f84f1012dd1dfb3ad1d477745f5286d3"
+    },
+    "games/niuniu/import/d2/d2c0049c-64e4-49f0-93dc-2a63b8c7a718.json": {
+      "md5": "fc5ca7d4bd583cd833a960a2ea5d8096"
+    },
+    "games/niuniu/import/d3/d391448c-a273-472a-b272-6557ec8263d8.json": {
+      "md5": "b3f0c9310b127f8745fe0dd1129258a5"
+    },
+    "games/niuniu/import/d3/d3a8ce57-adcb-418c-bc99-404e46f54557.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d3/d3de376c-7608-4834-975c-e15663f30481.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d4/d474b923-9560-46df-aa8b-6225c17e2f51.json": {
+      "md5": "15b51cd3faa8d0524b20c0a3babfd266"
+    },
+    "games/niuniu/import/d5/d5aa2658-1210-4db1-b144-4f1c8c3b6eb5.json": {
+      "md5": "2bd10ac6777e50e540c7e7970ca0a678"
+    },
+    "games/niuniu/import/d6/d64a3936-5d71-42bc-b89d-fd3a375d7e3f.json": {
+      "md5": "dea5de72579caca2e3727fc22703a62d"
+    },
+    "games/niuniu/import/d6/d6924852-6c21-4cc2-8a79-2ff1a2556cc4.json": {
+      "md5": "9e55d6e3b68575752311dde2b86ac964"
+    },
+    "games/niuniu/import/d6/d6c79634-3d04-4080-9c22-dcc94f753c03.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d7/d761ab5d-856f-4e36-9cc9-5d8314e5e0b8.json": {
+      "md5": "96196f88d9d62bb71302aa98a880ee93"
+    },
+    "games/niuniu/import/d7/d7bc056d-1c88-4af9-a1d2-dd05eab5a155.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d7/d7c160b2-2193-4097-bb92-f951954587a6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d8/d8324cfe-e128-4233-8837-4c3c096953fe.json": {
+      "md5": "258d59d4f9d4e3e5f20d64239cbf6ffe"
+    },
+    "games/niuniu/import/d8/d848edab-6993-4985-b433-c0888eee2a4a.json": {
+      "md5": "b7e47110c4013161a4a95a2a0b13c0a4"
+    },
+    "games/niuniu/import/d8/d868f4b8-dd8b-4dfc-9697-73de06fdbd4d.json": {
+      "md5": "06b69d544e2c3cc99f32043ebdea2fdd"
+    },
+    "games/niuniu/import/d8/d87c3dd1-97dd-4b0e-bcb5-f3a4ce21c65d.json": {
+      "md5": "1a998c63b10d1ceca2c2b702f479c712"
+    },
+    "games/niuniu/import/d8/d88db1dc-039d-478a-bc7a-5fb05790384d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d8/d89137fd-a7f4-4a56-8251-62a180f3e2e9.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/d8/d8bd14cf-02e3-458c-b7dd-7b1d515426ff.json": {
+      "md5": "634968c99000a7194853cf1e97d57500"
+    },
+    "games/niuniu/import/d9/d9a9a201-d847-4e84-ae74-d382ebc8472f.json": {
+      "md5": "ae9a32fcea0ed8ebe6f44b4d49991124"
+    },
+    "games/niuniu/import/d9/d9cb978b-1af7-4b9b-bbbb-bb8d19b0b98f.json": {
+      "md5": "ba0408e11cd132a28f579afca613726a"
+    },
+    "games/niuniu/import/d9/d9eb1999-5b57-4f07-9a38-da5a60df470f.json": {
+      "md5": "d03c3f6fe32ee4db98622f2c39a82655"
+    },
+    "games/niuniu/import/da/da07d87c-4fbd-4002-a742-a468cc75c924.json": {
+      "md5": "769fc249af98a8b82129d2bafff56998"
+    },
+    "games/niuniu/import/da/dac482af-8e5f-47e2-888a-b892e22bf943.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/db/db90d14b-cd74-49f3-b528-45cdf6c8a0d6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/dc/dc92deb3-bdac-4fab-b6df-1923ab254d3d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/dd/dd0a5577-3679-44db-a374-706a6ebf80c6.json": {
+      "md5": "47f347eba5b3302124047fcf95656ac0"
+    },
+    "games/niuniu/import/dd/ddb41969-77bd-42ab-bb9a-e650796ab466.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/dd/dddad29d-a9e2-424e-b4d7-56c35cf6c0ef.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/de/de0ac371-28e7-4d8e-b706-822ebcc1591e.json": {
+      "md5": "71b7027d7faa2a9d6bab9b11a6244f71"
+    },
+    "games/niuniu/import/de/de5a5a3a-4bac-4379-ade9-3e5c5c8ed5de.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/de/dec5d9ef-1dca-47b1-82ca-56471ccb64b1.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/de/dedde607-c222-496a-991c-4761ec7279fa.json": {
+      "md5": "541f608cafb4f1871cfc5fdfbcbee386"
+    },
+    "games/niuniu/import/df/df69f0be-6bbd-42f9-91fd-3fb34b3fb854.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/df/df95429e-1150-44b4-abe6-d7f614fd6df7.json": {
+      "md5": "344be18334e926c5bd6c3e3674db5de1"
+    },
+    "games/niuniu/import/df/dfa7e988-a9d0-4379-9f1a-83b650afe295.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/df/dfafacda-eeea-4a8c-aea2-5b5a54df144d.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/df/dfd66dea-863e-4488-8d09-00618d71370f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/df/dfdd16f3-1d0f-4a83-b34e-24bf6730c8b9.json": {
+      "md5": "a4104b135b1d64414e5a2bd828c14343"
+    },
+    "games/niuniu/import/df/dfff9d17-0c2e-44fe-9e9f-29380839190b.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e0/e06e48e5-9d8d-4f75-9296-4dbb8f2795a2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e0/e0e379cd-bdbc-4b23-b2e8-69628b324c3d.json": {
+      "md5": "680bc1f0881799235c5e15c7ffc89cac"
+    },
+    "games/niuniu/import/e1/e10ea38e-da19-4ce3-a1c0-fe698065870e.json": {
+      "md5": "885253a6a6ae6cb490ad292a10d4ae41"
+    },
+    "games/niuniu/import/e1/e12e0d8a-4bf1-48c1-88a2-ff62c458b478.json": {
+      "md5": "cb6dda69f49caef908705504c92bcd9c"
+    },
+    "games/niuniu/import/e1/e1b6a586-f130-4272-87be-a2c0f44d5aaf.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e1/e1e8d7aa-cce0-4371-8b63-e3964054fdfd.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e2/e20c83c4-1613-45b4-bddc-dd8c587bf5c2.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e2/e2b39eaa-b3f9-46c3-a12d-106256eb6297.json": {
+      "md5": "781ebe6900b1a1dc7cdf339cf4cc3698"
+    },
+    "games/niuniu/import/e3/e35eb4de-66d0-490c-87de-c8dad7e3e35d.json": {
+      "md5": "fd05144ea81cbb0bf24025886a52a23e"
+    },
+    "games/niuniu/import/e3/e3f49ec6-ad18-4774-9554-7278f4e90900.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e5/e5181c49-f78b-44dd-b6c9-b3dba758d275.json": {
+      "md5": "124d26dc56fcd4fd283537ef0f54f7bc"
+    },
+    "games/niuniu/import/e5/e5476780-7ae4-43c7-be7b-33dcbdf52a20.json": {
+      "md5": "327bd6277bf1b98754445eeb3051bc73"
+    },
+    "games/niuniu/import/e5/e591c3df-68c5-403d-a897-b31b38cb0381.json": {
+      "md5": "cd7e8aa2d99ee89fc6b1484ba0f3438d"
+    },
+    "games/niuniu/import/e5/e5aa7830-5104-4c35-9053-ec08f69aab39.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e7/e72ede21-0a36-4d60-8e0e-d357df64a99e.json": {
+      "md5": "2e2426271a700d07f38c55929e36c45c"
+    },
+    "games/niuniu/import/e7/e7d86ce5-f3eb-4366-b37c-c57a71f06972.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e7/e7d8d8f2-af17-4f38-b138-abb25bc56e7c.json": {
+      "md5": "cd8f51cddd6db1459f60626f1d25009a"
+    },
+    "games/niuniu/import/e7/e7e8dcc6-460f-417e-826c-0fbe5689e5e7.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e7/e7fdd23f-6f7b-461e-93b8-d175d5c430de.json": {
+      "md5": "31c8e165992204a56a5fab98160679d4"
+    },
+    "games/niuniu/import/e8/e8689f65-d741-40c0-be92-6250d2c7db9c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e8/e885c004-0077-402a-89de-b699b1f7d1af.json": {
+      "md5": "27475fc201aca924a8f17739c155db5f"
+    },
+    "games/niuniu/import/e8/e8921230-a217-41df-83b5-7506ad1794e4.json": {
+      "md5": "33afaa5a20626a1f9b19a9c1f23bc607"
+    },
+    "games/niuniu/import/e8/e8dab9bb-cb24-43af-a704-dec138b94f32.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e9/e987a183-9028-456f-988f-bbffacc800fb.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/e9/e99a2ff9-2714-4f6c-80b6-fcf16a731374.json": {
+      "md5": "c54b4fbf882e2c27f34f24314846b992"
+    },
+    "games/niuniu/import/e9/e9a3c593-41a4-4110-8c5c-f151c332dc7e.json": {
+      "md5": "2d4e237e891e0d4025f573ed1a5d2f65"
+    },
+    "games/niuniu/import/ea/ea0baf24-2504-46a9-bed1-5cfb73df057a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ea/ea362753-06f2-4d49-a2d8-b8bc9ce6740f.json": {
+      "md5": "f94acddc5ae7d60b92cf91ba4d01c02f"
+    },
+    "games/niuniu/import/eb/eb037821-9a70-473e-a9c1-f9155111314e.json": {
+      "md5": "f586c79192848d82a50d57b8cb883583"
+    },
+    "games/niuniu/import/eb/eb8c4ea8-dc78-4033-8f02-c1d44604ce7c.json": {
+      "md5": "1ad898dd743e8e15c6b2908a5dfe82b6"
+    },
+    "games/niuniu/import/eb/eba32785-556a-4802-8552-9802fc826a5a.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ec/ec30df36-4699-4fa0-a5e0-d1d0d047a80d.json": {
+      "md5": "e6b5c197b7adf333de0a1b6b740f7edc"
+    },
+    "games/niuniu/import/ed/ed037e1f-8f30-479f-a3a8-6e6cead22b8e.json": {
+      "md5": "4c5a272d687f781e004c743868849dfc"
+    },
+    "games/niuniu/import/ed/ed5f4a67-e955-443a-827f-70c04db76029.json": {
+      "md5": "77a4207f3d38bf03a39b35e8370aa236"
+    },
+    "games/niuniu/import/ed/ed97ef8b-d953-406c-b0fe-c0b24b37a902.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ed/edb4b359-0b85-4609-b22e-8c7868b65019.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ed/edf19208-f37a-433a-9d79-5c17272f90da.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ee/ee38c22c-5ea0-4c0a-8b68-a8a8228474e6.json": {
+      "md5": "e8d091294f943a26c633580f8204a5b7"
+    },
+    "games/niuniu/import/ee/ee456860-7613-479f-b6b5-b5f2aaff1861.json": {
+      "md5": "b4e3a40f254a34ebafb07dcb9136a694"
+    },
+    "games/niuniu/import/ee/eeacbcbd-1d53-4fc4-ae22-3bfd701f2189.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ee/eeb6bc9b-0114-4f77-8c4b-06974f6cbc4f.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ee/eed80a27-4f63-4707-8a27-6ba40cd0010a.json": {
+      "md5": "60f84f7210d4d95726ebd341b04a75ee"
+    },
+    "games/niuniu/import/ef/ef06da1f-7491-4db3-ab4a-220e8e18dd0c.json": {
+      "md5": "d45053faefb98376144583544059f00c"
+    },
+    "games/niuniu/import/ef/ef65a41b-401d-4a26-8b93-68f6f4354095.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/ef/eff1e202-fc3a-4224-a04e-770e6cc526bc.json": {
+      "md5": "e94a6b433d17713d27822f20b749d511"
+    },
+    "games/niuniu/import/f0/f0bb16bb-80d4-4514-b4ba-e46b7e2d08e7.json": {
+      "md5": "e0666b127aea696782f29f233dd3cb7e"
+    },
+    "games/niuniu/import/f1/f17a9d7e-46ef-4eb7-8016-f62441878382.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f1/f1825ed6-f4eb-4e72-8182-73cdfabff4e9.json": {
+      "md5": "5fa9d41819d75bda8fe21aab226605e1"
+    },
+    "games/niuniu/import/f2/f206debc-26dc-48d1-b1fc-7d77f06b8502.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f2/f22a8846-ddff-4a7b-9b00-538a88354b93.json": {
+      "md5": "86ef5269772389e3c5042692abb62404"
+    },
+    "games/niuniu/import/f2/f2d177b7-1905-4eae-9b4a-235aca79fa63.json": {
+      "md5": "6d6f02772b646b1c719f70c57e1facdf"
+    },
+    "games/niuniu/import/f4/f4351162-88ba-4eb3-a6f1-e473d6f1db52.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f4/f4564b1b-16a9-4317-a324-f206fea81db6.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f4/f4678e60-6c79-4574-8390-959a9a3b229a.json": {
+      "md5": "d7378e794fbeac15cfe9ebd18cb7733a"
+    },
+    "games/niuniu/import/f4/f49c8a17-48fd-4e97-9af6-fa014e97a2b0.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f5/f52a012d-aec3-402c-a4e5-4ee9d102646c.json": {
+      "md5": "20bf577bdaeb7caad33584df94616f05"
+    },
+    "games/niuniu/import/f5/f5d6ffbe-4365-4308-b20c-b7af9d5e34ee.json": {
+      "md5": "b0e80d9dce3c5af523eb21c6379be1e1"
+    },
+    "games/niuniu/import/f5/f5f6f51c-3782-4674-b6a3-f24f6e1b35d7.json": {
+      "md5": "f6e8ad231857e7caa89168ac62c0b509"
+    },
+    "games/niuniu/import/f6/f6134abb-1dd6-4a8a-a07d-720d8c5a9971.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f7/f7d1f818-5ef5-4aed-ba33-79040ca6e1c5.json": {
+      "md5": "8ca2c0400ab2d8d62c343bb65d521bf4"
+    },
+    "games/niuniu/import/f8/f80e4bd5-b5fc-4f34-8bb8-c0dece133f75.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f8/f81536cf-e047-401c-b32d-a5a078f9e8e3.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/f8/f85dc40c-677f-4fef-86cd-d54295083ca7.json": {
+      "md5": "e04d59ee99dd68ccb308c5a7185c855e"
+    },
+    "games/niuniu/import/f8/f8fb7088-258e-4289-86b5-fac178833815.json": {
+      "md5": "3e308730c40645615d9a16c41df75bb0"
+    },
+    "games/niuniu/import/f8/f8fe7dfa-6e41-4335-ad27-1e4a723ef683.json": {
+      "md5": "36e3c3b034c34da2dccf2329030872f3"
+    },
+    "games/niuniu/import/f9/f9e86e05-1027-46b8-a0db-428cc29e2d1e.json": {
+      "md5": "00558822ee4a3b0de98b45cb668919ca"
+    },
+    "games/niuniu/import/fa/fa601720-a443-4e7e-8e00-5c473d22ab07.json": {
+      "md5": "686b5128cf498c241c8aaa389abf8e1f"
+    },
+    "games/niuniu/import/fa/fa895c11-3f50-40b8-9b87-1a9bed5b62a4.json": {
+      "md5": "7e1fc39111c8f83eeb24bc3f40b1ed94"
+    },
+    "games/niuniu/import/fb/fb42c51b-3988-4ff8-be0e-25bd74cabe13.json": {
+      "md5": "8d7d7adce47aae267faf196ca0f74d53"
+    },
+    "games/niuniu/import/fb/fb87c83c-01c9-42a3-bc78-270e7958a207.json": {
+      "md5": "62b2559e0d8c6e93949a76f7f7db15b3"
+    },
+    "games/niuniu/import/fb/fbf002ad-b93e-43a5-871f-87b1cbe83bdf.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/fc/fc06a673-99c0-48bf-8f43-8b868170e938.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/fc/fc273772-cb86-42db-9ccd-51f737fef9ba.json": {
+      "md5": "a49e96ed991912e3ee3dd0a8c9c42024"
+    },
+    "games/niuniu/import/fc/fcf78caf-d79d-4123-8f69-33ea0c01277c.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/fd/fd251d15-d7ed-4c87-868a-2f0f815b4780.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/import/fd/fd6955d1-8d43-48b6-a8d2-d4fd635012f8.json": {
+      "md5": "ed017f9053d6a679e5fb50b76821039e"
+    },
+    "games/niuniu/import/fe/fe504e06-7c7a-4407-8902-f63abb66e086.json": {
+      "md5": "45ff2c045df1ca9258df3e56a5252444"
+    },
+    "games/niuniu/import/ff/ff2064a0-17b9-49fa-8108-adfb4e21e4ca.json": {
+      "md5": "c0023da1645647eea0d582e29efca440"
+    },
+    "games/niuniu/import/ff/ff726092-d1e4-4dfb-9710-d014dfa67e91.json": {
+      "md5": "79209e47e553a41e20f36100e1a1224a"
+    },
+    "games/niuniu/import/ff/ff9f580f-30bb-46ae-9035-2f443989cc7e.json": {
+      "md5": "f31b255842f37abe323fd53f36cfbd7b"
+    },
+    "games/niuniu/import/ff/ffe8f2a9-be06-472b-b7c0-e8ce87e2f448.json": {
+      "md5": "7871fc157af8a1f7ebef099323476b67"
+    },
+    "games/niuniu/index.jsc": {
+      "md5": "11871a1f2f91324be9d2c099c5db9e9a"
+    },
+    "games/niuniu/native/00/00464109-d838-436f-b4c2-2dac2d67c0f5.png": {
+      "md5": "f2da28962a2b7f4c5e1c76ef3e52841e"
+    },
+    "games/niuniu/native/00/009fc1d2-38b3-4715-96b5-28a8efb3f3d2.png": {
+      "md5": "2dc2863652684dd99e6f4f19bdbdc7db"
+    },
+    "games/niuniu/native/01/0165aaad-2e39-4dc3-ad91-19874b645e02.png": {
+      "md5": "de911c1951249847288ec2a78079038b"
+    },
+    "games/niuniu/native/01/01661218-6736-4b6f-9873-731669822705.png": {
+      "md5": "1efe4b8ba8a9daa24054cdce5d98d2cc"
+    },
+    "games/niuniu/native/01/01c758bc-eb63-4f37-8d10-56609ed9f8a3.png": {
+      "md5": "66407a16587a6293ad478dbfa83cdd9b"
+    },
+    "games/niuniu/native/02/02770ecc-5e2b-49a0-a396-94160b1ac9bc.mp3": {
+      "md5": "d6b41fa502f7981c7d5f23f770b6066f"
+    },
+    "games/niuniu/native/03/03dfdf99-9686-44eb-87c9-508c6c290368.png": {
+      "md5": "75dffd6f47768e4f35bc18d6465a4557"
+    },
+    "games/niuniu/native/04/04b5808f-8a24-49af-99ad-714b5fc91196.png": {
+      "md5": "465bc4a3d21f1af9d7e62f4af62815cf"
+    },
+    "games/niuniu/native/05/05d0be26-87d9-4786-b505-b4277b774328.png": {
+      "md5": "8f422f6fd7507790df1ffe10f62a0678"
+    },
+    "games/niuniu/native/06/06254744-d018-4865-a887-bb815632c201.png": {
+      "md5": "cb759f6faf6d1b852f6dbafe27fc3bd0"
+    },
+    "games/niuniu/native/06/0653befb-76dc-4842-9593-d5e5ea6b2d9c.png": {
+      "md5": "ebc3dbddf3fbaf60af55d2183f60728e"
+    },
+    "games/niuniu/native/06/06714301-fb92-46c8-be0c-d6e2180f975a.mp3": {
+      "md5": "f293292623486a08a389d2d09b91ab25"
+    },
+    "games/niuniu/native/06/06cb35f2-e1d5-469e-a776-8623e80ef26e.mp3": {
+      "md5": "46833b525b99179ca2c28e4f3e8320c2"
+    },
+    "games/niuniu/native/06/06fb1ef8-fe68-4031-9a59-84867f1eea3d.png": {
+      "md5": "873e5b9cb03f64b2a99380ea723a152e"
+    },
+    "games/niuniu/native/07/07309fd0-f82b-4cf3-9ba8-bb067fd1fc0c.png": {
+      "md5": "9f38d6f1942ec3c3a252c5cdfc7678c7"
+    },
+    "games/niuniu/native/07/07536ebd-87d2-441c-8f2b-2436f61a7edc.png": {
+      "md5": "e952c794629cb57788ef22b8fc7bbb8a"
+    },
+    "games/niuniu/native/08/08802953-97e9-4079-ba47-a8b2e523a888.png": {
+      "md5": "d7c7cfc90b89f6d980c0f2f04bde2f06"
+    },
+    "games/niuniu/native/09/09af4d79-5c55-45d3-9b80-47acd1843360.mp3": {
+      "md5": "c52f74581f870005942f12550a78a6c5"
+    },
+    "games/niuniu/native/09/09e7eebc-3e56-4162-831b-387306e2961c.png": {
+      "md5": "a7ceaf24393d1e730969922ac10fc70b"
+    },
+    "games/niuniu/native/0a/0a25d0a8-2b64-4571-a976-fabef1147cc8.png": {
+      "md5": "2208f7a726a3e0a8410e3396ae534653"
+    },
+    "games/niuniu/native/0c/0c2eeb97-e87d-4f2f-8acd-79b6e69f893d.png": {
+      "md5": "9333885230943390804263d4592e4ade"
+    },
+    "games/niuniu/native/0c/0c3d96c1-badf-43ed-8e09-11c60273ad67.mp3": {
+      "md5": "07fc9f8929749476ebe95535ff14d883"
+    },
+    "games/niuniu/native/0d/0db7eafd-8c24-4239-b72c-708e591f3169.png": {
+      "md5": "060a6c8defef3d88822a54ec412c7f9d"
+    },
+    "games/niuniu/native/0d/0df83329-8309-4c51-8e34-935d66f5494e.png": {
+      "md5": "20be5b31d5f03978bce64cdb86b9100c"
+    },
+    "games/niuniu/native/0e/0e824379-0303-4261-96df-f38aea122f1f.png": {
+      "md5": "30b32c6d5e1bb39e625dc7673a5c3722"
+    },
+    "games/niuniu/native/0e/0ec77376-66cf-4df9-ae3e-56dd776d9fc6.mp3": {
+      "md5": "1703f831ac8ccdf75da2deed3fc6daf6"
+    },
+    "games/niuniu/native/0f/0f2a16ac-be7a-45fc-a1b1-03da726d11df.mp3": {
+      "md5": "a7a29e03eea6d6fb632c850896a793da"
+    },
+    "games/niuniu/native/0f/0f453c86-8232-4827-8ca5-effb136ee399.png": {
+      "md5": "b172b7c6e35ca0f6fdcf4984c6a4f60b"
+    },
+    "games/niuniu/native/12/128f6cb5-94bd-4a50-a191-8cca7c255d25.png": {
+      "md5": "5eb10c41599da34d5c6035ddc9183ed9"
+    },
+    "games/niuniu/native/14/1490c413-0980-4f4d-ab8e-3b5ad5ff0695.png": {
+      "md5": "ffef631fd6caf9c905b6ee4537e4dddd"
+    },
+    "games/niuniu/native/14/14fc9029-1f11-46a3-9d94-a19239d9fb6b.png": {
+      "md5": "017567deda4ad55b6cb5ddeaee901b3c"
+    },
+    "games/niuniu/native/15/15be631b-f129-4c02-b5ac-33bed1bb9a34.png": {
+      "md5": "7756e56bc155b3b4d477eb9b03ff3064"
+    },
+    "games/niuniu/native/16/161b7617-1e95-467e-84e1-e1ace24f7052.png": {
+      "md5": "244cf0cf974c39ca343b441704e123f1"
+    },
+    "games/niuniu/native/18/184efec2-a5b6-4f02-ad51-c12ef6b0e22b.png": {
+      "md5": "7f29bf17742e3b9c854af15049083498"
+    },
+    "games/niuniu/native/18/1854da61-0358-4c2f-ad62-c9639f5310e1.mp3": {
+      "md5": "481fbfe10084f43fedc203699162eacd"
+    },
+    "games/niuniu/native/19/194dd3e1-3b65-4064-8895-c62e69fa3798.mp3": {
+      "md5": "f354d5267b2b76499475f1b178b8daca"
+    },
+    "games/niuniu/native/19/1972cb83-ef4f-4156-9539-58967bfc2625.mp3": {
+      "md5": "77da29d8c26e82b2b1fd67ef9e467739"
+    },
+    "games/niuniu/native/1b/1b17a930-5909-4e01-966f-fb9bc9517d46.png": {
+      "md5": "b9dd57e756222d47cec451e47dc5d450"
+    },
+    "games/niuniu/native/1b/1b2128d7-5467-43a1-9c69-22f5c70af0cf.png": {
+      "md5": "dd3e89790c851eb1a7f8a71df0405153"
+    },
+    "games/niuniu/native/1c/1c712480-9ba4-4d5c-b281-602954da534d.mp3": {
+      "md5": "a0f16942b8aba0f7c57692a9a3ca0b62"
+    },
+    "games/niuniu/native/1d/1d92401b-85fb-490f-9aae-9f94fe56ae47.png": {
+      "md5": "2e736c6b5bbdf1223dae812634ec8d3f"
+    },
+    "games/niuniu/native/1d/1daaec78-8b51-4185-b856-5f35f8b782b4.mp3": {
+      "md5": "f85a785243ffdd6f9d61dd4d176b1e23"
+    },
+    "games/niuniu/native/20/200021ab-437f-45be-9434-bfd00ec5780d.png": {
+      "md5": "4a4108043bf419a2bbd5df6c7751bb79"
+    },
+    "games/niuniu/native/20/2024613a-53f9-4d0a-a464-0f5cb25ec12b.png": {
+      "md5": "d3014f1048d01ae2021598898195eb9c"
+    },
+    "games/niuniu/native/20/208c598e-44ec-426b-ae53-30968a611a36.png": {
+      "md5": "191a6cd94d125ccd7483d2a76c08cd70"
+    },
+    "games/niuniu/native/21/21645371-df69-4563-b926-b587ab4d66d6.png": {
+      "md5": "12bd88060f66b777ecfb12b17f77bce2"
+    },
+    "games/niuniu/native/23/2302025b-497a-46b8-ba94-458f2d638a0e.mp3": {
+      "md5": "438956737a660c8f43c6e8fea2772259"
+    },
+    "games/niuniu/native/24/24f290bb-5085-4383-b9f7-fe8c435fa104.png": {
+      "md5": "73376b4d60ae6a37bbd5f2166145b390"
+    },
+    "games/niuniu/native/26/26e92d53-0472-4e60-9f7d-0d546c1eb2e1.png": {
+      "md5": "7810cca502928df726dfa7fb09e5ac2a"
+    },
+    "games/niuniu/native/27/270190cd-2139-486c-ad6c-6ecb4acfd4b4.png": {
+      "md5": "21979406c61c5ea68491566b22c6bced"
+    },
+    "games/niuniu/native/27/275a6d80-f6ee-4365-943a-4b554eff76e7.png": {
+      "md5": "9d3fad288b49ee0d09cf33538e3a4315"
+    },
+    "games/niuniu/native/29/2953c433-d7b6-4567-b785-b05bfc30a196.png": {
+      "md5": "c1ba25ee7861acf833a258b550b6a6f4"
+    },
+    "games/niuniu/native/2a/2a5ccf3f-1d9c-4eb1-863f-7311c7e580bf.png": {
+      "md5": "30c2ad1c633616c91d25cdca833cecfc"
+    },
+    "games/niuniu/native/2b/2b12f384-30c2-4132-9240-e5171de0b2a1.png": {
+      "md5": "6ae6240eeb3e66505e282e8e395470cf"
+    },
+    "games/niuniu/native/2b/2b24bfb5-784b-49e8-9058-ec83e3c19d9a.png": {
+      "md5": "6d2b27d52efcd92a690736d7595bdce3"
+    },
+    "games/niuniu/native/2b/2b84577e-3393-404c-a98f-94be5e4f84fa.png": {
+      "md5": "3f0a6757785b12a9bda5bc2322935fbe"
+    },
+    "games/niuniu/native/2c/2c9cd81e-fc59-435f-8a28-bd205ca53874.png": {
+      "md5": "6d774376064c173a7b8444e531e72b71"
+    },
+    "games/niuniu/native/2d/2dccc25b-1488-485d-9b93-4b8c8fee1707.png": {
+      "md5": "7a056b31522e87e3f235affb7ed068e5"
+    },
+    "games/niuniu/native/2e/2e3d2ddd-d694-4d4d-88ce-6d6ffa1713f1.png": {
+      "md5": "7fc9c58ad273c44b4b9db731945c4812"
+    },
+    "games/niuniu/native/2f/2f13febc-fc0b-4350-9663-5b0d4fd93b68.mp3": {
+      "md5": "fc8a23034ac3d9813712819dac9f8e8f"
+    },
+    "games/niuniu/native/2f/2fc584de-1b5d-4316-8d75-9c875e0d6c35.png": {
+      "md5": "3ed52756d67531c55cec6e06bb9e4e48"
+    },
+    "games/niuniu/native/30/30e53620-3bb7-4457-aae0-a510b21ec9fd.png": {
+      "md5": "cbfcfa126abd5d5d255589110988abbf"
+    },
+    "games/niuniu/native/30/30fc0224-f544-4a87-a231-29547f0a78c9.mp3": {
+      "md5": "5a2396eca3b5f8512fb079407fdccbdb"
+    },
+    "games/niuniu/native/31/3126da5b-3b61-4f9d-b4d4-8b89c134fb01.png": {
+      "md5": "8ee6c2e31309eeaffd93821293bee883"
+    },
+    "games/niuniu/native/33/334bbfe5-2a2c-42f2-acec-8dc8bce998a1.mp3": {
+      "md5": "d9b5a04435f7888ee577873fbfe484cf"
+    },
+    "games/niuniu/native/34/3420cf74-d747-4fcf-8bc4-b968a7121ad5.png": {
+      "md5": "76a7d51cfabcb06fde8c4941805208dd"
+    },
+    "games/niuniu/native/34/349ae83e-4c37-4527-9238-2d650e8114ea.png": {
+      "md5": "cd55b3c8d645403bc1fed83f46743440"
+    },
+    "games/niuniu/native/35/350bd780-c724-46d6-8a97-0f9246eb89b3.png": {
+      "md5": "fe1dec7dae70e2b5887a2045fc59b716"
+    },
+    "games/niuniu/native/35/3525ad70-b673-4d93-97ba-8d24a07c679b.mp3": {
+      "md5": "7792a4bec1ab6e64c77109c5c6439112"
+    },
+    "games/niuniu/native/36/36e74fd1-88ba-461b-b9af-b4838c2f75f8.png": {
+      "md5": "919fc8a5ceebbbdce8c24c642234ccaa"
+    },
+    "games/niuniu/native/37/3719a011-bff9-4065-8acc-3d441c5a3279.png": {
+      "md5": "8d29ae296edb5c65d11d262529dd9b5f"
+    },
+    "games/niuniu/native/37/3720ea25-162f-40cf-ba6a-534275b5772a.png": {
+      "md5": "6e53a285c2523a50f8bc86920896a2b1"
+    },
+    "games/niuniu/native/38/38596bac-1ae1-4c6a-a9b4-318fc92949e4.png": {
+      "md5": "687c442cb7db2a3ddb7de4efd9ca9b67"
+    },
+    "games/niuniu/native/38/38f268b7-0940-4c2f-8199-ce4145420c2d.mp3": {
+      "md5": "224f84253150b0ba5e003af077abc9d2"
+    },
+    "games/niuniu/native/39/397d7162-43fd-41e6-8d85-4c7bb81d1700.png": {
+      "md5": "c3f7d8ad2e4d129fa8e83501da1a8225"
+    },
+    "games/niuniu/native/39/397f29a6-1274-4140-adf2-3f881b84e626.png": {
+      "md5": "b7fca52808e78bf107dc2aad6d62b19b"
+    },
+    "games/niuniu/native/3a/3a5b3a37-9f49-4046-94c8-090ec9273d07.png": {
+      "md5": "d6c57ee51dc48c50b0acd9c88167e249"
+    },
+    "games/niuniu/native/3b/3b07bff6-e684-4efb-b651-4ea6aa6360d0.png": {
+      "md5": "e29cb5cdd130d18c3fabc1396ed483df"
+    },
+    "games/niuniu/native/3b/3b3dec03-4c21-486e-99fc-c15d6d98db41.png": {
+      "md5": "2c16a2c50ee01af63e735a91edc9d79d"
+    },
+    "games/niuniu/native/3b/3b530a68-c758-42cb-bad4-93e36fd87da5.png": {
+      "md5": "e4d9188ba3ed1601837fa2d8d3d51a03"
+    },
+    "games/niuniu/native/3b/3baa9196-63d4-4878-8f8f-c8d78fa5af21.png": {
+      "md5": "d93e3830e59727253528f54575932a52"
+    },
+    "games/niuniu/native/3b/3bf32e68-6000-42d7-a19b-1b58cb6e3adb.png": {
+      "md5": "ed0e30c5f1bda9bb474f6d5709d6f003"
+    },
+    "games/niuniu/native/3c/3c29962e-5b7a-41cd-8313-b4caced1cbf1.png": {
+      "md5": "14e558af82614bbf345cb5a65a6976a5"
+    },
+    "games/niuniu/native/3c/3cbb2408-60e5-4fb2-a91b-c8a9dabb3da2.png": {
+      "md5": "06ae9befbfe48a599a2733a8400efb85"
+    },
+    "games/niuniu/native/3c/3cf97f03-c57e-4408-9b18-c5423515daca.png": {
+      "md5": "73dfce536dddeaf79bc951e1e6aeab64"
+    },
+    "games/niuniu/native/3d/3d1c10bf-595b-485e-ad7b-6594bce552d9.mp3": {
+      "md5": "c2bc21b1ad9db18a8c9b8f8bc0e49460"
+    },
+    "games/niuniu/native/3d/3d3dca24-d7e7-46a2-83e1-5cfcda4cdc8a.png": {
+      "md5": "2c69d042da70f1557c3b10f8ed72b0f1"
+    },
+    "games/niuniu/native/3d/3d5f7056-54f8-4d17-b81f-ab5f03240bff.png": {
+      "md5": "283218aa7fca5f981a3c78bb1a59c447"
+    },
+    "games/niuniu/native/3f/3f214125-c1cf-4b2d-bf15-c14253924b1c.png": {
+      "md5": "f511ac7e8d141086ce5cd3e62e1a3371"
+    },
+    "games/niuniu/native/40/4047345f-0865-4fc1-b658-e27f1b386b5a.mp3": {
+      "md5": "f8703e3a644aff406733b16bb4235fc3"
+    },
+    "games/niuniu/native/41/413244ae-a0d1-4ab8-8b55-19b841e789e1.png": {
+      "md5": "fb0d8a2a41ffcf1e1a5190115bfd4b4b"
+    },
+    "games/niuniu/native/41/41d02578-9126-48b4-8412-c7f861a2e1e3.png": {
+      "md5": "1ac9a3aa0beaf6f61c8793b60bfe3ae2"
+    },
+    "games/niuniu/native/42/42231d37-5c50-43f0-b636-16b6e1ef1e33.png": {
+      "md5": "4dc1247ee7a808778a3c5064b973fbd2"
+    },
+    "games/niuniu/native/42/42620efb-7a5b-4720-b478-4e5a3106b049.mp3": {
+      "md5": "5bb7c30952a2a4fe9c0491d2ca15f610"
+    },
+    "games/niuniu/native/43/43a1f105-1a48-4a3b-91e3-78bcbd6550c8.png": {
+      "md5": "9acf70885a14c11bc16ba9de66d61bae"
+    },
+    "games/niuniu/native/44/4440e35e-3078-42eb-8b2a-0951ec7504ad.png": {
+      "md5": "48432652c95c0cc115d3a7994d2e00e8"
+    },
+    "games/niuniu/native/45/453bae7f-a91f-410a-b699-1d7250629e81.png": {
+      "md5": "6cd40acea0a6b86dc4199ac2626aec91"
+    },
+    "games/niuniu/native/45/453fd935-8895-499f-89b3-ddb02f545a70.png": {
+      "md5": "78d277944b730fe8b829365a574c0239"
+    },
+    "games/niuniu/native/45/458020c7-7bce-4f20-a585-56128cc7d348.png": {
+      "md5": "d8440678d1125bc85aba285b97e802ab"
+    },
+    "games/niuniu/native/46/46771917-088c-47c2-ab99-e03e0302bfe3.png": {
+      "md5": "bc007a3bb3f3f6d6937e12d390e1d385"
+    },
+    "games/niuniu/native/46/468e1dcc-e418-4d4d-b9ab-4e2d0cfc9061.mp3": {
+      "md5": "b9c9ff0adecffaf3377f2c7780de9f35"
+    },
+    "games/niuniu/native/46/46c8c063-acdf-4ea3-91bf-9993d52efdc0.mp3": {
+      "md5": "2c9e0e58da2d85bcd01720aca497f71e"
+    },
+    "games/niuniu/native/47/47623303-bf4b-4fab-9298-31c7a549b693.mp3": {
+      "md5": "ac2bd323fecbf71a862d89110189ecef"
+    },
+    "games/niuniu/native/47/4789843f-4662-4d54-9546-35042140aa90.png": {
+      "md5": "ba8ba85bf72aa5616f972c131a4a0f59"
+    },
+    "games/niuniu/native/48/48bb7fbb-d5dd-471f-9f87-b57bf09f7659.png": {
+      "md5": "e4140e3d90978be898426933574a9b54"
+    },
+    "games/niuniu/native/4a/4aabe1f6-f5c9-4790-8eb8-cf0f60f5ff3e.png": {
+      "md5": "b7a64feea19d3e4919218f7c5d935b03"
+    },
+    "games/niuniu/native/4b/4bba1846-41f7-4317-9d3f-ff8339b16097.png": {
+      "md5": "ecace6e0307f40121adc074c229accdb"
+    },
+    "games/niuniu/native/4c/4c48f637-960f-41cb-a36b-f5773eeaaf81.png": {
+      "md5": "6d22a81c9dc33c9f7f89bbe2b768e970"
+    },
+    "games/niuniu/native/4c/4ce25234-a721-4d1d-92f2-0b66792c9d11.png": {
+      "md5": "29ad636fa4215fa011fa45f89ad01ac0"
+    },
+    "games/niuniu/native/4c/4ce26bf8-eb33-44d6-8f06-1d12d4c57b96.png": {
+      "md5": "92975b00fae30ec19b0b9ba42e85c225"
+    },
+    "games/niuniu/native/4d/4d3d4ab2-4d16-47f1-9a8c-14b70d5499ec.png": {
+      "md5": "2da87f065fccea0a3f5dd0065f810237"
+    },
+    "games/niuniu/native/4e/4e75987b-64c3-48cf-8bfb-0cde29a06a6b.png": {
+      "md5": "b793e85c242d85dd0520ea93d4a1dfa7"
+    },
+    "games/niuniu/native/4e/4ea11dc7-8255-427d-b564-47354cda3113.mp3": {
+      "md5": "a2ac477cdbe454c352a6143f185f5e34"
+    },
+    "games/niuniu/native/4f/4f61d5b6-3212-4f8b-b512-8d404902cfd3.png": {
+      "md5": "b9d19c7b395784d99b81c33cf9268575"
+    },
+    "games/niuniu/native/4f/4feb7bea-f4d0-4c43-a590-d1a48d68f581.png": {
+      "md5": "42b0d493f7705a4194bc1f71038d0557"
+    },
+    "games/niuniu/native/50/501d77cc-d721-4503-b354-6f5534cc5593.png": {
+      "md5": "56d17ff9444eb2b023493000bfa13d9f"
+    },
+    "games/niuniu/native/50/50ffe08d-7315-4f20-93a5-c02e06105d6e.png": {
+      "md5": "ab57f6d01cf38280b60aadcd8989df37"
+    },
+    "games/niuniu/native/51/51253852-f6b3-4539-925c-ab42b1db62d5.png": {
+      "md5": "91d4ccedb5599a60d59f171457bff1a9"
+    },
+    "games/niuniu/native/51/5181c61f-5295-452d-baf8-830d1a089165.png": {
+      "md5": "eb6fc8c4dec7e83b5be97d8685adf79f"
+    },
+    "games/niuniu/native/51/51e49df2-5a39-4f0d-8bcc-617b2ec26d6f.png": {
+      "md5": "768ae9422d3522ecb5cc29ebd9937a4e"
+    },
+    "games/niuniu/native/52/529fa8bb-86e2-489e-99b3-32c9f95066b4.mp3": {
+      "md5": "cca6d1fb81fa286b4b90d9bfb157c768"
+    },
+    "games/niuniu/native/53/53c18301-739f-4c8d-9d6f-ece74a7e9744.png": {
+      "md5": "5cf9c8ddb74755c680082ee09cf217fe"
+    },
+    "games/niuniu/native/54/54578d27-73ad-4048-b436-b6b7e78f73c2.png": {
+      "md5": "0ccda6b72aa6d7eb90be07d2f7f77348"
+    },
+    "games/niuniu/native/54/54651b4d-c16f-4bb9-9bde-83b64ae02103.png": {
+      "md5": "6789e8cffe6cf1b94fee4e3d24a268fb"
+    },
+    "games/niuniu/native/54/54fb6687-3e42-4104-b8b0-b9ed8d7a70e1.png": {
+      "md5": "bfc4fc6db1439335d02b467cf87877c1"
+    },
+    "games/niuniu/native/56/561d80fd-ec27-49cb-b032-cb8be867b688.mp3": {
+      "md5": "a9059c9c08fe13557fbeebd02381ccce"
+    },
+    "games/niuniu/native/58/580c603e-2ce4-4add-9190-4d8b68b65f20.png": {
+      "md5": "640d18072fbc01b730ef468f02508a8f"
+    },
+    "games/niuniu/native/58/582c6366-96f7-4675-b481-e7d72a98917b.png": {
+      "md5": "3920ac4b65bdd84d3cdc2480bcfe5b54"
+    },
+    "games/niuniu/native/58/58d4bbf0-820e-4097-825d-78dac66e3c60.png": {
+      "md5": "a3ea5bea38b1bfe9a4f5a745855859e6"
+    },
+    "games/niuniu/native/58/58df9c3d-e2e0-4308-845f-2e4ac577732a.png": {
+      "md5": "4ebac10fa358a8aa70f3da052f76bf5a"
+    },
+    "games/niuniu/native/58/58f53299-967b-42ac-8882-c66e839ab24e.png": {
+      "md5": "f8a3ffcaadb5997d04e6994a3014f999"
+    },
+    "games/niuniu/native/59/592431bc-4cd1-4aaf-8d80-2dae3fcff3a1.mp3": {
+      "md5": "b96160cb8d106ee0e94fce6e87317d2f"
+    },
+    "games/niuniu/native/59/59d5019e-2862-4045-9205-f3019509c7ee.mp3": {
+      "md5": "fc21398a70d9593b038fad592cbc3afb"
+    },
+    "games/niuniu/native/59/59ef3463-aaa7-4e98-b86e-7cf7e41273ce.png": {
+      "md5": "f076d571a0db06db004ddd2450a68209"
+    },
+    "games/niuniu/native/5a/5a4f76a6-4117-4b3e-ab82-042291841c91.png": {
+      "md5": "1f0819d009276a16ea5ef86998a34c45"
+    },
+    "games/niuniu/native/5a/5ab1b25b-1ca1-4ea2-84db-6dc23d1f3145.png": {
+      "md5": "3a7b13626acf263f620d738272feb410"
+    },
+    "games/niuniu/native/5b/5b076c36-3f9b-49e1-af7d-6e68351f9e5f.png": {
+      "md5": "ee57e8413c29e1c51257bfea6f851c24"
+    },
+    "games/niuniu/native/5b/5b15a7e9-580b-4120-98f1-d7dead5541e5.png": {
+      "md5": "0f5dfb8eb4d0e8e31adb74b84be3fd96"
+    },
+    "games/niuniu/native/5b/5bae5824-d147-4ea3-b21a-15c1d118a8ea.png": {
+      "md5": "ee25a18ad4e9f1f07c5a89f0e7d41fd1"
+    },
+    "games/niuniu/native/5e/5eecac94-b3c0-4f7a-9dae-70f1cd5b5520.png": {
+      "md5": "df90f08abe05864b15e81e19575ad365"
+    },
+    "games/niuniu/native/5f/5f442e23-a9e8-44e3-a1c6-bd1e859e34ea.png": {
+      "md5": "b0930320a5baf67e58e9488dcc14fd40"
+    },
+    "games/niuniu/native/5f/5fa46d50-11b1-441c-926a-18ba5c57fe6c.png": {
+      "md5": "34e8464bf6aa920230c35fafa7043f4d"
+    },
+    "games/niuniu/native/60/6074aec2-21e2-4820-a8b0-f3b62a0d9b46.png": {
+      "md5": "9e9b4961496ae94fa53211efcb71b4fd"
+    },
+    "games/niuniu/native/62/62224a97-07ba-44b8-901a-632e4c52bdaf.png": {
+      "md5": "0c9d59160155f9e1d92c87824f5775c9"
+    },
+    "games/niuniu/native/62/62b09203-9f01-426f-ab64-f126ef3bb952.png": {
+      "md5": "24d6e11fe8d9df80be839502119d40a5"
+    },
+    "games/niuniu/native/63/637dbba3-ee0e-4897-84ea-5a936fe37732.png": {
+      "md5": "6337cfb6c19f3de6858748fedaed82b5"
+    },
+    "games/niuniu/native/65/65d38a26-6618-434d-998d-3e6f2fa7c73d.png": {
+      "md5": "208f08b1cd4a55c68b7381b28bee6aab"
+    },
+    "games/niuniu/native/66/66a961d7-e129-47e7-9495-bc41fc1e6d4e.mp3": {
+      "md5": "946876a2db11d9df21bec94ec4decd3d"
+    },
+    "games/niuniu/native/66/66e7ef4f-ab31-49e2-a408-079e21632497.png": {
+      "md5": "0c2a6f1b72f440701ada7e7bfe481621"
+    },
+    "games/niuniu/native/67/67360f01-7c72-4c5f-9701-d55d6c327766.png": {
+      "md5": "99209919cd1f52bf2f2e20bfe7e03dea"
+    },
+    "games/niuniu/native/67/67b4363b-d470-4171-9c8e-c825025f0d48.png": {
+      "md5": "e6f5acedfc93d91b11fd048a2e039cfd"
+    },
+    "games/niuniu/native/67/67e5536f-21c6-49a7-a5ba-7cccf0fd56c8.png": {
+      "md5": "a8d77dbeb02c9df861c493900e7331b7"
+    },
+    "games/niuniu/native/69/698f303e-e562-480b-b768-7a77f7e325e4.png": {
+      "md5": "504be15383f8ec35c27b8ce08e6fca42"
+    },
+    "games/niuniu/native/6a/6a1ee166-5dd5-4300-a289-0151161bbbfc.png": {
+      "md5": "58c9b2b601899fcf9774369e155a5005"
+    },
+    "games/niuniu/native/6b/6b320a0c-2042-4bc9-aeba-f8471dbf52e2.png": {
+      "md5": "1ade814827a90fc4e31fa52888e40d69"
+    },
+    "games/niuniu/native/6b/6b7f0c1e-d8ea-4a53-ab40-cc56ed04d32e.png": {
+      "md5": "47193b5bfdbd940d6f0a992904ac60eb"
+    },
+    "games/niuniu/native/6b/6b924b22-ba53-4287-83ab-1b104f6df924.png": {
+      "md5": "6e16459bdce1dd2744c59a76b6d25dc3"
+    },
+    "games/niuniu/native/6b/6bb484ba-f460-4dfd-9f2e-e8a142d0f1f4.png": {
+      "md5": "789bf494f8836ed0e876126d3bffa133"
+    },
+    "games/niuniu/native/6c/6c050c2c-4121-49ea-b054-73cc94c1ff15.png": {
+      "md5": "fa4562e4d802713a60f7fd816176a7fd"
+    },
+    "games/niuniu/native/6d/6d0c1c44-b361-4b1d-a203-50dbcbd79efe.png": {
+      "md5": "3acb22c1eeef29409fb44578059341cf"
+    },
+    "games/niuniu/native/6d/6da1fcac-6bed-443b-b46e-81aa7bd7cf4c.png": {
+      "md5": "fe39de6e98be0fa8e06d7324de94c931"
+    },
+    "games/niuniu/native/6f/6f5d0547-63d2-43ac-a929-952a3e9e91c3.png": {
+      "md5": "ef0ffeec3c864835d7491f02e62acfd1"
+    },
+    "games/niuniu/native/6f/6fd0d443-5756-4a9f-857a-9eb29e62a0ea.png": {
+      "md5": "2443d8a58515c650d3d54c0e19c507e8"
+    },
+    "games/niuniu/native/6f/6ffea69f-081b-41ce-b580-ea879af6586d.png": {
+      "md5": "10ff741eeaa204eea35b34e43bcf058c"
+    },
+    "games/niuniu/native/71/715af91a-c771-4302-b3bf-9505dab5bb6a.png": {
+      "md5": "f0a44e9e8a90ed49c8a41e66a3d93f87"
+    },
+    "games/niuniu/native/75/75b8fd8f-c153-4df2-8fc0-4bfc74ef8a5d.png": {
+      "md5": "e41635803a8e01547e44e248d8add9b2"
+    },
+    "games/niuniu/native/75/75f67cb5-44e0-428f-b8b4-eadefffab7e2.png": {
+      "md5": "18d3e3061cf92a1519fadb28004cbae6"
+    },
+    "games/niuniu/native/76/7619e8e4-d041-4e04-8755-db9d4584911c.png": {
+      "md5": "3a2eb80516bbb20f16d603adc434aa37"
+    },
+    "games/niuniu/native/76/762b8047-f146-43eb-974e-e1292f089507.mp3": {
+      "md5": "fd61bacbbd3234344f01b43f9ff48d79"
+    },
+    "games/niuniu/native/77/772eaf55-075e-4e8a-ab47-95d75ba35d06.mp3": {
+      "md5": "17a0b3ca6f881d33a3bcc0d718c49b27"
+    },
+    "games/niuniu/native/77/7775870a-e87c-48c7-9560-80d95d1b736f.png": {
+      "md5": "b655bf978e28b1bfcb1894af98efc79e"
+    },
+    "games/niuniu/native/77/77c08169-47b5-47bf-9cd7-482e98f081be.png": {
+      "md5": "83c2679c9b6d96e8b9f25a685b637eeb"
+    },
+    "games/niuniu/native/78/781b1f4b-0986-4cf3-bf4c-f7738014d657.png": {
+      "md5": "560ea330e610ebd74e266749510d805c"
+    },
+    "games/niuniu/native/7b/7b21e3f0-fc30-4ca3-9147-854072a7b540.png": {
+      "md5": "ae45fd5b4579964340da6e002c3bdb90"
+    },
+    "games/niuniu/native/7e/7ea59fe6-af3c-4e93-bf90-694838166e88.png": {
+      "md5": "40de01f817a91ad55151012e10f9222e"
+    },
+    "games/niuniu/native/7f/7f5eca1a-5d2b-4c8b-9002-071cb283befb.png": {
+      "md5": "f9efda340edc64f91b1420a2f7103a46"
+    },
+    "games/niuniu/native/7f/7fa27e8b-c524-4992-8d61-1beefa991639.png": {
+      "md5": "ad53e59b3da54c7dfc85979279a023b9"
+    },
+    "games/niuniu/native/7f/7fbea7d6-a65b-4815-af00-b8fb05539f7b.png": {
+      "md5": "b7168235f3f8bf8758aa686bca587a0f"
+    },
+    "games/niuniu/native/7f/7fe255a6-18ba-4727-aefb-3ebfbcbe5304.png": {
+      "md5": "4cc000a74f9d129e8f0c16a24454dcd9"
+    },
+    "games/niuniu/native/80/80042061-95fd-4cc3-afff-1b4fddeb8206.png": {
+      "md5": "c6e7d28e70b9cafe79e5dbb79ed0a9da"
+    },
+    "games/niuniu/native/80/8016abfc-f0da-4ceb-92bf-a26f3713eff9.mp3": {
+      "md5": "eb29ef45f1cd14c2e85780f5bebda9d7"
+    },
+    "games/niuniu/native/80/80d01a0d-d9c3-429e-bcd5-39eabc3fae64.png": {
+      "md5": "451e411c82e921620ccdce1388a3b54c"
+    },
+    "games/niuniu/native/81/81e8ee0b-0fe8-4048-823f-75aa07bd3774.png": {
+      "md5": "067739389d019aa08d8be6dc8a3f567a"
+    },
+    "games/niuniu/native/82/82b59485-d2ce-4352-9bd0-708520244ce1.mp3": {
+      "md5": "920fc3ddbe094529ccb9bee60b960e2e"
+    },
+    "games/niuniu/native/83/83793080-6837-4bf5-b4fe-98f039118a5b.png": {
+      "md5": "93bda06d020cbdbf7e02405e495d91f9"
+    },
+    "games/niuniu/native/84/8471b350-1bc8-45db-912f-6c8af2e83c53.png": {
+      "md5": "d4c78aa512877ac3c5339f8c420f804a"
+    },
+    "games/niuniu/native/85/85530f09-8d9c-4d67-a4a7-63998a3610f6.png": {
+      "md5": "b2ab3eea2a58d8b07f913f3b98261c00"
+    },
+    "games/niuniu/native/86/8618a4f1-bd66-4d71-9a13-8d382be2ba38.png": {
+      "md5": "705c3545840fdd9973606f56277dadef"
+    },
+    "games/niuniu/native/86/8639b32d-f4ed-4b14-8032-5dc6742ec552.png": {
+      "md5": "8bb9e5f06b77d787c5009cf515d69936"
+    },
+    "games/niuniu/native/86/86c3c8f9-e69f-4e8b-b83b-9777df4874c9.png": {
+      "md5": "29b43a264dbc207dcb2da1543bf8fe1a"
+    },
+    "games/niuniu/native/87/8710524e-0871-4d39-b172-ca8e33dc3cdd.png": {
+      "md5": "452ec806182f3c76630c1f63f811c205"
+    },
+    "games/niuniu/native/89/8908054e-e943-499c-9c96-67b66a42d00a.png": {
+      "md5": "cbaec5c6c4babcd1c3ee04164acd40f5"
+    },
+    "games/niuniu/native/89/8935eee9-e216-4565-a000-a91a79a9c33e.png": {
+      "md5": "b729093aa5c9a5865e1912068962d530"
+    },
+    "games/niuniu/native/89/89b0b081-19f5-4de8-9890-29822b778ea0.png": {
+      "md5": "7a5b86e31e4a108492c8eabc6be9604e"
+    },
+    "games/niuniu/native/89/89b2619c-3863-4ba8-ae83-5a49b044bf69.png": {
+      "md5": "8a3def92d6663986d668a2f01cbdfe6f"
+    },
+    "games/niuniu/native/89/89d140c2-f8a5-4eab-99d2-3f1aed7338b6.png": {
+      "md5": "654544b6b31d1d107aa9131393696738"
+    },
+    "games/niuniu/native/8a/8a038fb4-a8e8-422e-afc0-2af54a172a1c.mp3": {
+      "md5": "e98999db108ae4761ae2e65c9851e145"
+    },
+    "games/niuniu/native/8c/8c3c16af-dc27-49a7-b07b-322796bcd09c.png": {
+      "md5": "ad39429e60b8da8fcb1f93949809b437"
+    },
+    "games/niuniu/native/8d/8d6e2343-899b-4194-b9fb-dcf48ec9226c.png": {
+      "md5": "90538fe3b0bf65ccfded5aa49563264a"
+    },
+    "games/niuniu/native/8e/8e2aa7a4-9851-48ed-9ced-1657c1cb39fd.mp3": {
+      "md5": "8bbe30b7831f52ae04f98b1460febbad"
+    },
+    "games/niuniu/native/8e/8ea1fd07-d802-4960-b9cf-65f5ebde7d58.mp3": {
+      "md5": "010c2e17372e9550feeec056d3abf89b"
+    },
+    "games/niuniu/native/8f/8fa39858-57f2-4565-ac86-b98743b6d0e3.mp3": {
+      "md5": "ec663aa328f0b5112b743c6f977f2969"
+    },
+    "games/niuniu/native/8f/8fe7016b-e9e4-408c-8e56-c2b67b31cc43.png": {
+      "md5": "cd5621f13ce204b67df977d0d3ed9ee2"
+    },
+    "games/niuniu/native/90/9054be5f-b48f-4504-b178-e669e0a0bfd5.png": {
+      "md5": "67cd94d2cf3ad28e4918ef8d989f1386"
+    },
+    "games/niuniu/native/90/90ac699c-6c20-4c50-8a5d-bc2fbdf63061.png": {
+      "md5": "86ccb4f91d32e0babd6f8b93e7d26b84"
+    },
+    "games/niuniu/native/90/90ae69bf-ef51-43a5-a571-a55ccde9854c.png": {
+      "md5": "174f7a30c4d43050d081fefe60c62866"
+    },
+    "games/niuniu/native/91/9187e700-d154-46ba-b961-55f669af9191.png": {
+      "md5": "19f2914a841a6a5ea31bd457ad79f4e4"
+    },
+    "games/niuniu/native/92/92244489-dc63-4d12-80df-2c3390aeb149.png": {
+      "md5": "e7109ba808a6b3d2a33dffb616de4c4f"
+    },
+    "games/niuniu/native/92/92331fe1-83af-4952-828a-a8220ae345e5.png": {
+      "md5": "e38d9411eef3a06306a6962bae652912"
+    },
+    "games/niuniu/native/93/932803e5-2831-4fae-a726-244dd3c0e684.png": {
+      "md5": "cc9180f496c0b22290df5fb8573fd074"
+    },
+    "games/niuniu/native/94/9403f340-e07d-479e-b1d1-1a1b19361239.png": {
+      "md5": "ad117d2e330c9a70299ed308b54aa222"
+    },
+    "games/niuniu/native/94/94b4db69-3a50-444a-8313-1769b399e650.png": {
+      "md5": "259a3e0f802b99717a778dbdb038a57f"
+    },
+    "games/niuniu/native/96/9601d6f6-d675-404f-b455-106f9d1a211a.png": {
+      "md5": "199bd140f6f212dc4d94f8cc3c055eaa"
+    },
+    "games/niuniu/native/96/96354393-c631-4dbf-a105-7fa140015fb3.mp3": {
+      "md5": "182b8a9acc01a6f016cd43a803a18acb"
+    },
+    "games/niuniu/native/97/97cc69f1-428d-477f-a881-df6f3c6d2da0.png": {
+      "md5": "6dcdd1adaade5c15de4ca58075ec5ae9"
+    },
+    "games/niuniu/native/97/97f234d2-fbc9-42c6-8612-09f85e37e51f.png": {
+      "md5": "ad7d607ef4d331f05fff6140c878eafd"
+    },
+    "games/niuniu/native/98/9881ec6c-c956-4a78-899b-5c6e223afddc.png": {
+      "md5": "c2a60fb96c9594d958505e96eaf3db18"
+    },
+    "games/niuniu/native/98/98ac2b67-a2d9-4ab8-98d2-484d94c3d18e.png": {
+      "md5": "93743358411bc3c1e51ac9ce4cde69c4"
+    },
+    "games/niuniu/native/98/98e50f7f-360d-4d1b-9fea-ac9259a8c19a.png": {
+      "md5": "327e321dce534109f57e3a8d229977f0"
+    },
+    "games/niuniu/native/99/9979b935-df82-4337-8e43-97f25ed28f42.png": {
+      "md5": "cd0e1a022194f60d0a004eea160dac5d"
+    },
+    "games/niuniu/native/9a/9a110f75-ed1e-4461-89d7-9fb8f463193d.png": {
+      "md5": "3189582e488853c076fdf5b8bf47cc31"
+    },
+    "games/niuniu/native/9a/9a2106d2-6041-4fe5-ad19-c97b6791d11f.png": {
+      "md5": "83e5a9945c03e87183abc01164916b81"
+    },
+    "games/niuniu/native/9a/9ab1e371-2708-4778-bed2-1e76c930086d.png": {
+      "md5": "d9abffc1533888cf6c01e7e5d7eed8ff"
+    },
+    "games/niuniu/native/9a/9af4188d-aa1c-4e25-a4f7-869e93b471f3.png": {
+      "md5": "44015d85fe3242996d93591332e06350"
+    },
+    "games/niuniu/native/9c/9c1d3fdd-4caf-4532-a998-88027984d33d.png": {
+      "md5": "91c5f400ddd56a035e61c438fd4650ef"
+    },
+    "games/niuniu/native/9d/9de38a2f-7288-4eca-95a9-c2fbaeed2be5.png": {
+      "md5": "4073f7363d296a8fcafdeefe228dfe9e"
+    },
+    "games/niuniu/native/9e/9e048163-8877-4f56-bd29-d0247299f678.png": {
+      "md5": "1618a38ef8c03452299c5b14d97505a2"
+    },
+    "games/niuniu/native/9e/9e6bf8f6-061e-4a55-869b-4e0f0a6dba54.png": {
+      "md5": "5aa714f6b9f89e0548260befa3fc6651"
+    },
+    "games/niuniu/native/9f/9fad49de-161a-4b4b-bf05-d2e9fa1d82bd.png": {
+      "md5": "7c7711a5c5371f54ee482992f75cb30e"
+    },
+    "games/niuniu/native/a3/a3ab88f5-ea70-4494-832b-da9853f14f1b.png": {
+      "md5": "974e17414a6895d5e683da7f9f5cc242"
+    },
+    "games/niuniu/native/a4/a423f4c5-9136-47ae-832f-a04936eeaf45.png": {
+      "md5": "b4381c5d0c4013f8f9768dad519c42a3"
+    },
+    "games/niuniu/native/a4/a4eb595a-176b-4bd6-84bf-26e9c2c34060.png": {
+      "md5": "508fc1f77740bd50bfe4a24ba478be33"
+    },
+    "games/niuniu/native/a6/a6544588-b41c-4d3f-b2f2-e87d3cacf2da.mp3": {
+      "md5": "53aa643b5576ea7d786c4477cbcce1a8"
+    },
+    "games/niuniu/native/a6/a6d9f246-ca6e-43f2-be9a-9231a6f800f4.png": {
+      "md5": "defcec9c7f5b8e921b71702c4b7b2979"
+    },
+    "games/niuniu/native/a7/a78759ff-e12d-45f1-904c-ae1adafcadf5.png": {
+      "md5": "de85690520fabf8f44d1ae63234b77fe"
+    },
+    "games/niuniu/native/a8/a8629f79-d1fd-4925-9969-1e8123fa5519.mp3": {
+      "md5": "f9e648c23ea005398efa828183728225"
+    },
+    "games/niuniu/native/a8/a8890aa1-eb09-4208-9466-c9b52e1b7679.mp3": {
+      "md5": "6e31fbb6b524f927d912a06d71bb5832"
+    },
+    "games/niuniu/native/a8/a8bdc4c7-a572-493f-98b6-a82a4b6b525e.png": {
+      "md5": "36437ff3efbc379a5b01366e12372dd6"
+    },
+    "games/niuniu/native/a8/a8cdf609-04c9-4b17-b14c-4a424d4a713b.png": {
+      "md5": "3e3a1076f9e8d2b1414360f13a17491e"
+    },
+    "games/niuniu/native/a9/a91e2a75-2c7d-4ecd-90d9-1620fe1fbfe6.png": {
+      "md5": "0d1529792987c900e6e2ff2fa74eef64"
+    },
+    "games/niuniu/native/a9/a9640e75-c454-419f-a843-7205d254105b.png": {
+      "md5": "08fb45c879f126b38a54ff4710d82ab5"
+    },
+    "games/niuniu/native/ab/ab4271d1-aa1c-46c9-8315-f8883c480e8d.png": {
+      "md5": "db1cba2d164e17a39a14edf8dd559c6d"
+    },
+    "games/niuniu/native/ab/abf53fed-7107-4c4a-b4d2-a55d7a7de7df.mp3": {
+      "md5": "73a6c913462e82b1a0b03949c7ba7262"
+    },
+    "games/niuniu/native/ac/ac254299-3d7e-46fb-9f19-e4d665fc23aa.png": {
+      "md5": "72ef1a7c1e2d0f757fabaa59ee1b57f8"
+    },
+    "games/niuniu/native/ad/ad131310-5c48-4751-a8ce-55002eee6ec6.png": {
+      "md5": "dfc408650160dc71dcf0bb22ff8ab4ee"
+    },
+    "games/niuniu/native/ae/ae58d2f3-2067-4c13-8d4e-6c2dcb24ae86.mp3": {
+      "md5": "def148f4c4b5fe2ab08fe99b24d9061f"
+    },
+    "games/niuniu/native/ae/aeef9f88-ffd0-4303-adfb-1b07b25da2f2.png": {
+      "md5": "b6e9365bdf6cf717b21c9f79191ffd82"
+    },
+    "games/niuniu/native/af/afcbb1d0-1e02-411a-b0ad-94a99f6bcec4.png": {
+      "md5": "af95c687802fdc6e1a7e927f9ef87937"
+    },
+    "games/niuniu/native/b2/b2b090e1-831a-49df-800e-bf6bc79be9d6.png": {
+      "md5": "f2c17f4b28e3ea1c06f322a3d1262ba8"
+    },
+    "games/niuniu/native/b2/b2ef0dd4-5db5-4ef1-a682-db222aca0fbb.png": {
+      "md5": "a5734c814fb2fd63cb5deddd28b5f0fd"
+    },
+    "games/niuniu/native/b3/b34c5e88-8d69-4985-ac72-4d0aa478439d.png": {
+      "md5": "f8d70e1ceba0574caa077bb36d18332a"
+    },
+    "games/niuniu/native/b3/b3d9e3ba-12ea-451b-bd00-7152661a718c.png": {
+      "md5": "b6bbc5e2b573409e43d53a7ca188ce23"
+    },
+    "games/niuniu/native/b4/b4392ae8-75b0-4a76-9a33-5ceb969d41c4.png": {
+      "md5": "e0e01054dbea095c90b4f580de6d5358"
+    },
+    "games/niuniu/native/b4/b4fa67ef-2606-4071-9809-cf827f6b567b.png": {
+      "md5": "ccec027759a7c6e244ebe62bef268a26"
+    },
+    "games/niuniu/native/b5/b5656d91-80be-4e80-b8c4-62d5b28d28b1.mp3": {
+      "md5": "0410ea3a2abf96d2e1248c4e3132c346"
+    },
+    "games/niuniu/native/b6/b628f20f-5de3-4d5a-9e64-70ee990f679f.png": {
+      "md5": "6190c55ece130878a83e4f97ea02c5b6"
+    },
+    "games/niuniu/native/b9/b99baff6-5166-4448-adb1-f6f943528444.png": {
+      "md5": "6f1ef4c60212fcc071c93dfa491012c8"
+    },
+    "games/niuniu/native/b9/b9a3ee46-6b07-4055-ae5a-61e02d625269.mp3": {
+      "md5": "df99c7cebd2bc5869e844a40dab0f57c"
+    },
+    "games/niuniu/native/bc/bcf035b5-95f5-480d-b025-77ee7374e720.png": {
+      "md5": "4a0cc78d7eead6f69c8dad4a7dbc222f"
+    },
+    "games/niuniu/native/bd/bdc2ff9c-775f-4dd5-8612-b7d0f7ed706f.png": {
+      "md5": "6ea40ca5dea6333dc9f3c4d98253ba4d"
+    },
+    "games/niuniu/native/be/be5a1ee8-1ddb-4902-bc8e-33490b34b678.png": {
+      "md5": "941feb1465dfd328a6ba3ecbf3e4ff58"
+    },
+    "games/niuniu/native/be/be6cf81c-ffad-4cf0-9c85-d12f23e53b8a.png": {
+      "md5": "44fefff133d53e88b9c4e4c7f2f61697"
+    },
+    "games/niuniu/native/bf/bfa8eec3-2ba4-4cb9-ad6d-4bb7d5ee3985.png": {
+      "md5": "bcad0ec95abf6714e3a95032ca16468f"
+    },
+    "games/niuniu/native/c2/c28f1e89-7d37-412b-9d77-a2bcafb07bef.png": {
+      "md5": "a42992442ca0508bd2868bc5e9e5000a"
+    },
+    "games/niuniu/native/c2/c2c273c8-c267-4d3c-8104-cc621fc6943b.png": {
+      "md5": "7872efc6845e947a5709b24f5c7854c4"
+    },
+    "games/niuniu/native/c5/c51388c9-7398-40ad-b62f-c986177e857b.png": {
+      "md5": "3a54d878ad6cfc63bb8ad0246ac9b05f"
+    },
+    "games/niuniu/native/c5/c53d9878-da94-4977-9092-e4ebf2db5eb6.png": {
+      "md5": "9ea1f4de9c81ca362e3fab474df055b1"
+    },
+    "games/niuniu/native/c5/c583d86c-a6c0-48b1-8e5c-548ff86fdd71.mp3": {
+      "md5": "94f8ccd2032e04e64a13dd9629c025e2"
+    },
+    "games/niuniu/native/c5/c5b584f9-fe67-43d5-bf1a-323ab00c08a9.png": {
+      "md5": "4306874376aeea5844463ab101de10bd"
+    },
+    "games/niuniu/native/c5/c5ca1f7c-dcc7-4a4a-b86a-4954f562257f.png": {
+      "md5": "2de64a21b6993f451a453537a8bfcc25"
+    },
+    "games/niuniu/native/c5/c5d84bd5-2404-4548-b216-41db55b19d97.png": {
+      "md5": "223d3e69f41c50e4015a1fe5cc68afb7"
+    },
+    "games/niuniu/native/c5/c5ed65fe-e786-49bc-bed9-ef87c748edd3.png": {
+      "md5": "2e946b7d8cbf1c841917bb2766f6a9b9"
+    },
+    "games/niuniu/native/c7/c72948db-ee46-4f8e-97cd-6c36f4dea5f5.png": {
+      "md5": "cab7e287128b8145b3f99d142ab22ae3"
+    },
+    "games/niuniu/native/c7/c72fd2bc-b4c7-4a89-9317-7f95ffbb944c.png": {
+      "md5": "3985f47a165b6899434c0013c8a617c7"
+    },
+    "games/niuniu/native/c7/c7b41c65-442b-42f2-aadc-8104f0e8ba69.png": {
+      "md5": "5cadceca81e0a68b6f33e1e2f8a87606"
+    },
+    "games/niuniu/native/c9/c9ecee2f-b2e6-4418-9cd5-6d37b55e4c74.png": {
+      "md5": "84e95ef4c4d8b33ceaa8201a401d8df3"
+    },
+    "games/niuniu/native/ca/ca2fedbc-4a09-4381-9a1e-8783ee43c620.png": {
+      "md5": "8060e4e5549a9c6a0c4c6aa8bf0270dd"
+    },
+    "games/niuniu/native/ca/caa7b3d0-ed50-434f-b54c-486302953483.png": {
+      "md5": "afaa55989b1b1bacd321abe50df65db7"
+    },
+    "games/niuniu/native/cc/cc29f9e8-468d-42f0-855f-b53b46e41725.png": {
+      "md5": "8dd49cacb7117c008417208004afae7b"
+    },
+    "games/niuniu/native/cc/cc60c6b9-10a8-41a3-b53c-0baf35ed63d1.png": {
+      "md5": "7d7ad21670208951ac887e8a63c85e73"
+    },
+    "games/niuniu/native/cc/cc9a690f-573c-422b-bdd4-ad8892fbac97.png": {
+      "md5": "2d01419cc03d6ea5835dd4f1b1d3c9c8"
+    },
+    "games/niuniu/native/ce/cee88308-31d8-472d-b986-ad21dd9ae7b6.mp3": {
+      "md5": "9e2b9790e92a9e504a28be562841a845"
+    },
+    "games/niuniu/native/cf/cf9219b5-9a2b-40f1-bb2b-45cb41a4bd2a.png": {
+      "md5": "aa62f3d28c69e9f5240c0d7b0b5b1e72"
+    },
+    "games/niuniu/native/cf/cfe124c5-4f7f-4c9c-acc7-0f42b92c9310.png": {
+      "md5": "fbbd8a4dea43ce0e35ffcf3c882fc9d7"
+    },
+    "games/niuniu/native/d0/d09c9ae0-e04b-47ea-857b-83ec841ca987.mp3": {
+      "md5": "bd2bacd4f1edfccda9920382970c2618"
+    },
+    "games/niuniu/native/d3/d3a8ce57-adcb-418c-bc99-404e46f54557.png": {
+      "md5": "103e5bd96cc5f38dcb9aabebf3058fd4"
+    },
+    "games/niuniu/native/d3/d3de376c-7608-4834-975c-e15663f30481.png": {
+      "md5": "f9aedd5a0cc3a4e18ffb57e165db16e1"
+    },
+    "games/niuniu/native/d6/d6c79634-3d04-4080-9c22-dcc94f753c03.png": {
+      "md5": "17235660c8bde0bef9ef58721c320c97"
+    },
+    "games/niuniu/native/d7/d7bc056d-1c88-4af9-a1d2-dd05eab5a155.png": {
+      "md5": "cfd755dfaaed52253d4565f4911c5867"
+    },
+    "games/niuniu/native/d7/d7c160b2-2193-4097-bb92-f951954587a6.png": {
+      "md5": "e0663112f74b533e315dd12f25f3d32d"
+    },
+    "games/niuniu/native/d8/d88db1dc-039d-478a-bc7a-5fb05790384d.png": {
+      "md5": "8b4158d563e74d7c233854f82e57c1e4"
+    },
+    "games/niuniu/native/d8/d89137fd-a7f4-4a56-8251-62a180f3e2e9.png": {
+      "md5": "d136a1511002c23950987483c62bc194"
+    },
+    "games/niuniu/native/da/dac482af-8e5f-47e2-888a-b892e22bf943.png": {
+      "md5": "e2a7da6ff5d598180ea5374b4def0953"
+    },
+    "games/niuniu/native/db/db90d14b-cd74-49f3-b528-45cdf6c8a0d6.png": {
+      "md5": "b9c9e073afd200822173699d966e61e2"
+    },
+    "games/niuniu/native/dc/dc92deb3-bdac-4fab-b6df-1923ab254d3d.png": {
+      "md5": "34282ffbc37a2efd35ad4764cb9ee785"
+    },
+    "games/niuniu/native/dd/ddb41969-77bd-42ab-bb9a-e650796ab466.png": {
+      "md5": "18617f872e5900c930c5f33a6d7ec1e9"
+    },
+    "games/niuniu/native/dd/dddad29d-a9e2-424e-b4d7-56c35cf6c0ef.png": {
+      "md5": "f867de2f4099963d037f6a41b61bd4db"
+    },
+    "games/niuniu/native/de/de5a5a3a-4bac-4379-ade9-3e5c5c8ed5de.png": {
+      "md5": "4bd60914928db588e88027597470db0b"
+    },
+    "games/niuniu/native/de/dec5d9ef-1dca-47b1-82ca-56471ccb64b1.png": {
+      "md5": "d2220f4065a4dd95295393523eed72d6"
+    },
+    "games/niuniu/native/df/df69f0be-6bbd-42f9-91fd-3fb34b3fb854.png": {
+      "md5": "df55914c0deb1122d6ec53648951fd04"
+    },
+    "games/niuniu/native/df/dfa7e988-a9d0-4379-9f1a-83b650afe295.png": {
+      "md5": "a552f8f11a528ae115dd84491c02fe6e"
+    },
+    "games/niuniu/native/df/dfafacda-eeea-4a8c-aea2-5b5a54df144d.png": {
+      "md5": "149e553846ad6d21264a5f281938b64d"
+    },
+    "games/niuniu/native/df/dfd66dea-863e-4488-8d09-00618d71370f.png": {
+      "md5": "e27583de0bde66c6773fa81a6b2bab09"
+    },
+    "games/niuniu/native/df/dfff9d17-0c2e-44fe-9e9f-29380839190b.png": {
+      "md5": "d7523454dfa7fc07e497c6b668e9a46a"
+    },
+    "games/niuniu/native/e0/e06e48e5-9d8d-4f75-9296-4dbb8f2795a2.png": {
+      "md5": "1fa050eb98739be4b0383ebaf6f854bc"
+    },
+    "games/niuniu/native/e1/e1b6a586-f130-4272-87be-a2c0f44d5aaf.png": {
+      "md5": "e81c06378e8efcbfb3a36584b2613315"
+    },
+    "games/niuniu/native/e1/e1e8d7aa-cce0-4371-8b63-e3964054fdfd.png": {
+      "md5": "ef4c76a48a69e0dfcdc3f5dfbb8cfa29"
+    },
+    "games/niuniu/native/e2/e20c83c4-1613-45b4-bddc-dd8c587bf5c2.png": {
+      "md5": "537247bc96dac87fb9bb3b4c25425c34"
+    },
+    "games/niuniu/native/e3/e3f49ec6-ad18-4774-9554-7278f4e90900.png": {
+      "md5": "2a2b2ed3c54bac712b30a6d1612622a5"
+    },
+    "games/niuniu/native/e5/e5476780-7ae4-43c7-be7b-33dcbdf52a20.mp3": {
+      "md5": "dfc1463a70820fe291e0526768d9ca21"
+    },
+    "games/niuniu/native/e5/e5aa7830-5104-4c35-9053-ec08f69aab39.png": {
+      "md5": "1d29f585cf02a15fc2f075466de1f450"
+    },
+    "games/niuniu/native/e7/e7d86ce5-f3eb-4366-b37c-c57a71f06972.png": {
+      "md5": "56eeeafb03ec9936b320e3c9d2989260"
+    },
+    "games/niuniu/native/e7/e7e8dcc6-460f-417e-826c-0fbe5689e5e7.png": {
+      "md5": "85561d4027d0f277bacf765fd0fb18ec"
+    },
+    "games/niuniu/native/e7/e7fdd23f-6f7b-461e-93b8-d175d5c430de.mp3": {
+      "md5": "ada4c6d0e63e682d2a347470e3fc0cf7"
+    },
+    "games/niuniu/native/e8/e8689f65-d741-40c0-be92-6250d2c7db9c.png": {
+      "md5": "dcc38359543ea2c2816c30c0f5a6a82c"
+    },
+    "games/niuniu/native/e8/e885c004-0077-402a-89de-b699b1f7d1af.mp3": {
+      "md5": "74feb0b61cc1bf42aed8ece7b10cb6b0"
+    },
+    "games/niuniu/native/e8/e8dab9bb-cb24-43af-a704-dec138b94f32.png": {
+      "md5": "435543f1d2b1589a188611a5db67c35f"
+    },
+    "games/niuniu/native/e9/e987a183-9028-456f-988f-bbffacc800fb.png": {
+      "md5": "0d19e3b27171f9aed86a1cf1888dd243"
+    },
+    "games/niuniu/native/ea/ea0baf24-2504-46a9-bed1-5cfb73df057a.png": {
+      "md5": "f849d4f722d0ff0099fb53f273785e74"
+    },
+    "games/niuniu/native/ea/ea362753-06f2-4d49-a2d8-b8bc9ce6740f.mp3": {
+      "md5": "06bb62cc096fc26c5af6e3bb88c84409"
+    },
+    "games/niuniu/native/eb/eba32785-556a-4802-8552-9802fc826a5a.png": {
+      "md5": "54135c423b925e58777bcd807d8e0d3d"
+    },
+    "games/niuniu/native/ed/ed97ef8b-d953-406c-b0fe-c0b24b37a902.png": {
+      "md5": "dab52cc869386ee38e04f6e6d5c57582"
+    },
+    "games/niuniu/native/ed/edb4b359-0b85-4609-b22e-8c7868b65019.png": {
+      "md5": "d764ce6a41d2b000580b30b81f8a688b"
+    },
+    "games/niuniu/native/ed/edf19208-f37a-433a-9d79-5c17272f90da.png": {
+      "md5": "5e07db5166ee3686c4162611ad3f5df7"
+    },
+    "games/niuniu/native/ee/eeacbcbd-1d53-4fc4-ae22-3bfd701f2189.png": {
+      "md5": "a38e96d0dd758815270988dd3a42e364"
+    },
+    "games/niuniu/native/ee/eeb6bc9b-0114-4f77-8c4b-06974f6cbc4f.png": {
+      "md5": "73668b6ad410168cae16da0278abc891"
+    },
+    "games/niuniu/native/ee/eed80a27-4f63-4707-8a27-6ba40cd0010a.mp3": {
+      "md5": "3c758953a8f0c48f043b9adddd3df843"
+    },
+    "games/niuniu/native/ef/ef65a41b-401d-4a26-8b93-68f6f4354095.png": {
+      "md5": "e6098ed3df49f8132406a9d4b4387324"
+    },
+    "games/niuniu/native/f1/f17a9d7e-46ef-4eb7-8016-f62441878382.png": {
+      "md5": "5532f43a52590c89a97bf8dffb9a7799"
+    },
+    "games/niuniu/native/f2/f206debc-26dc-48d1-b1fc-7d77f06b8502.png": {
+      "md5": "83d087b97ca0e60de3f42db590775522"
+    },
+    "games/niuniu/native/f4/f4351162-88ba-4eb3-a6f1-e473d6f1db52.png": {
+      "md5": "3b75e305194d02117f334d720441fad4"
+    },
+    "games/niuniu/native/f4/f4564b1b-16a9-4317-a324-f206fea81db6.png": {
+      "md5": "1c39116f552d13fed0d8eedc3aeb2a14"
+    },
+    "games/niuniu/native/f4/f4678e60-6c79-4574-8390-959a9a3b229a.mp3": {
+      "md5": "1679635bb3d7b77ed24f68c4acdc7bc4"
+    },
+    "games/niuniu/native/f4/f49c8a17-48fd-4e97-9af6-fa014e97a2b0.png": {
+      "md5": "d1fc53c8c3860e2925bed258486c145f"
+    },
+    "games/niuniu/native/f6/f6134abb-1dd6-4a8a-a07d-720d8c5a9971.png": {
+      "md5": "6556da0a7f34a3ab47625f86ef6c25a7"
+    },
+    "games/niuniu/native/f8/f80e4bd5-b5fc-4f34-8bb8-c0dece133f75.png": {
+      "md5": "637ae3560f2e66000ae482f846c8dc3e"
+    },
+    "games/niuniu/native/f8/f81536cf-e047-401c-b32d-a5a078f9e8e3.png": {
+      "md5": "ba32ce568cf49b9559ce2c46c9ee2678"
+    },
+    "games/niuniu/native/fa/fa895c11-3f50-40b8-9b87-1a9bed5b62a4.mp3": {
+      "md5": "635fe61094735500bac6eaf864c2ae40"
+    },
+    "games/niuniu/native/fb/fbf002ad-b93e-43a5-871f-87b1cbe83bdf.png": {
+      "md5": "870b8965121b355e487357aac01b5072"
+    },
+    "games/niuniu/native/fc/fc06a673-99c0-48bf-8f43-8b868170e938.png": {
+      "md5": "946c98e294da95ca7d0dfca988338984"
+    },
+    "games/niuniu/native/fc/fcf78caf-d79d-4123-8f69-33ea0c01277c.png": {
+      "md5": "e1e8e95776531fefc706824290e88af6"
+    },
+    "games/niuniu/native/fd/fd251d15-d7ed-4c87-868a-2f0f815b4780.png": {
+      "md5": "61cf4944a1df332845aedf530b7d7065"
+    },
+    "games/niuniu/native/ff/ff726092-d1e4-4dfb-9710-d014dfa67e91.mp3": {
+      "md5": "0ed8668b8f36c984a9366c015d2ffab7"
+    },
+    "games/niuniu/native/ff/ffe8f2a9-be06-472b-b7c0-e8ce87e2f448.png": {
+      "md5": "d5324333dcf1fd5b69631a0903ae20b3"
+    }
+  },
+  "packageUrl": "https://hotupdate.oss-cn-hangzhou.aliyuncs.com/hotupdate/",
+  "remoteManifestUrl": "https://hotupdate.oss-cn-hangzhou.aliyuncs.com/hotupdate/manifest/project.manifest",
+  "remoteVersionUrl": "https://hotupdate.oss-cn-hangzhou.aliyuncs.com/hotupdate/manifest/version.manifest",
+  "version": "1.0.0"
+}

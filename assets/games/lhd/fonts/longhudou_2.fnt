@@ -1,0 +1,24 @@
+info face="Arial" size=50 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0
+common lineHeight=50 base=26 scaleW=512 scaleH=512 pages=1 packed=0
+page id=0 file="longhudou_2.png"
+chars count=20
+char id=43   x=456     y=0     width=24     height=29     xoffset=-2     yoffset=12    xadvance=20     page=0  chnl=0
+char id=45   x=493     y=0     width=16     height=14     xoffset=-2     yoffset=22    xadvance=13     page=0  chnl=0
+char id=46   x=480     y=0     width=13     height=17     xoffset=-1     yoffset=27    xadvance=11     page=0  chnl=0
+char id=48   x=192     y=0     width=24     height=37     xoffset=-2     yoffset=7    xadvance=20     page=0  chnl=0
+char id=49   x=408     y=0     width=22     height=36     xoffset=0     yoffset=8    xadvance=20     page=0  chnl=0
+char id=50   x=216     y=0     width=24     height=37     xoffset=-2     yoffset=7    xadvance=20     page=0  chnl=0
+char id=51   x=240     y=0     width=24     height=37     xoffset=-2     yoffset=7    xadvance=20     page=0  chnl=0
+char id=52   x=359     y=0     width=25     height=36     xoffset=-3     yoffset=8    xadvance=20     page=0  chnl=0
+char id=53   x=264     y=0     width=24     height=37     xoffset=-2     yoffset=8    xadvance=20     page=0  chnl=0
+char id=54   x=288     y=0     width=24     height=37     xoffset=-2     yoffset=7    xadvance=20     page=0  chnl=0
+char id=55   x=384     y=0     width=24     height=36     xoffset=-2     yoffset=8    xadvance=20     page=0  chnl=0
+char id=56   x=336     y=0     width=23     height=37     xoffset=-2     yoffset=7    xadvance=20     page=0  chnl=0
+char id=57   x=312     y=0     width=24     height=37     xoffset=-2     yoffset=7    xadvance=20     page=0  chnl=0
+char id=58   x=443     y=0     width=13     height=30     xoffset=-1     yoffset=14    xadvance=11     page=0  chnl=0
+char id=19975   x=154     y=0     width=38     height=41     xoffset=-3     yoffset=6    xadvance=34     page=0  chnl=0
+char id=20159   x=0     y=0     width=39     height=43     xoffset=-3     yoffset=4    xadvance=34     page=0  chnl=0
+char id=21644   x=117     y=0     width=37     height=42     xoffset=-2     yoffset=5    xadvance=34     page=0  chnl=0
+char id=34382   x=39     y=0     width=39     height=43     xoffset=-3     yoffset=4    xadvance=34     page=0  chnl=0
+char id=40857   x=78     y=0     width=39     height=43     xoffset=-3     yoffset=4    xadvance=34     page=0  chnl=0
+char id=65306   x=430     y=0     width=13     height=34     xoffset=2     yoffset=11    xadvance=34     page=0  chnl=0

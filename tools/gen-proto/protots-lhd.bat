@@ -1,0 +1,1 @@
+pbts -o proto_lhd.d.ts proto_lhd.js

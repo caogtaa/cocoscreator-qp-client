@@ -1,0 +1,7 @@
+{
+    "packageUrl": "https://hotupdate.oss-cn-hangzhou.aliyuncs.com/hotupdate/", 
+    "remoteManifestUrl": "https://hotupdate.oss-cn-hangzhou.aliyuncs.com/hotupdate/manifest/niuniu_project.manifest", 
+    "remoteVersionUrl": "https://hotupdate.oss-cn-hangzhou.aliyuncs.com/hotupdate/manifest/niuniu_version.manifest", 
+
+    "version" : "1.0.0"
+}

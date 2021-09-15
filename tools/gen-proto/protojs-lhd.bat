@@ -1,0 +1,1 @@
+pbjs -t static-module -w commonjs -o proto_lhd.js lhd.proto --keep-case

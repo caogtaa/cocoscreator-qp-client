@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9203b7f1-1c49-435e-9708-617cd6bc07ff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 25,
+  "height": 16,
+  "platformSettings": {},
+  "subMetas": {
+    "honghei_icon_new": {
+      "ver": "1.0.4",
+      "uuid": "56d8fb80-8773-4738-854f-224f8afe5966",
+      "rawTextureUuid": "9203b7f1-1c49-435e-9708-617cd6bc07ff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 25,
+      "height": 16,
+      "rawWidth": 25,
+      "rawHeight": 16,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

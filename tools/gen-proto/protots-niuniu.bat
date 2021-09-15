@@ -1,0 +1,1 @@
+pbts -o proto_niuniu.d.ts proto_niuniu.js

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "54651b4d-c16f-4bb9-9bde-83b64ae02103",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 248,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "room_btn_zuida_1": {
+      "ver": "1.0.4",
+      "uuid": "c7e2cb93-ab9e-4dd9-8e6a-47e224dc0eef",
+      "rawTextureUuid": "54651b4d-c16f-4bb9-9bde-83b64ae02103",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 247,
+      "height": 92,
+      "rawWidth": 248,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

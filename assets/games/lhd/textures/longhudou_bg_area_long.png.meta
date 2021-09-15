@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2da89e5b-e486-4ce3-8349-8203a924914e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 460,
+  "height": 180,
+  "platformSettings": {},
+  "subMetas": {
+    "longhudou_bg_area_long": {
+      "ver": "1.0.4",
+      "uuid": "ea13a757-d28a-4950-93b3-13ed72da0f62",
+      "rawTextureUuid": "2da89e5b-e486-4ce3-8349-8203a924914e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 460,
+      "height": 180,
+      "rawWidth": 460,
+      "rawHeight": 180,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

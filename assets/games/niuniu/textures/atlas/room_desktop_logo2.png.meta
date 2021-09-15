@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "50ffe08d-7315-4f20-93a5-c02e06105d6e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 374,
+  "height": 75,
+  "platformSettings": {},
+  "subMetas": {
+    "room_desktop_logo2": {
+      "ver": "1.0.4",
+      "uuid": "0792d575-d640-4973-8193-07cd9e1bacd2",
+      "rawTextureUuid": "50ffe08d-7315-4f20-93a5-c02e06105d6e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 374,
+      "height": 75,
+      "rawWidth": 374,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

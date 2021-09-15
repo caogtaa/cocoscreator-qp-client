@@ -1,0 +1,1 @@
+pbjs -t static-module -w commonjs -o proto_niuniu.js niuniu.proto --keep-case
